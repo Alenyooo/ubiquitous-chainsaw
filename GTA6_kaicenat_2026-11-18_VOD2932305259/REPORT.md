@@ -15,7 +15,7 @@
 - **Community signal:** "kai cenat argues with his new girlfriend" is his most-viewed clip from this stream (9.8k views), and several other clips of the same scene exist ("Kai wants a side girl", "LISTEN!!!!!!!", "gyaaat").
 - Universally known streamer; the format works without context.
 
-**Caption accuracy:** I checked every line against the game's own on-screen subtitles. Mandy's and Jason's lines are shown as colour-labelled character captions, and only Kai's own words get the word-by-word captions. Profanity is masked in captions; the audio is unbleeped.
+**Captions:** none burned in (removed at your request, because they covered Mandy's face). Only the game's own small subtitles are visible at the bottom of the gameplay panel. If you want text later, the post caption or the platform's auto-captions are the safest options.
 
 **Viral potential:** ★★★★☆
 **Risk notes:** Mandy wears a bikini for the whole scene. I cut the segment before a rear thong shot as she walks away, but some platforms may still limit reach. Contains "b*tch" (audio unbleeped).

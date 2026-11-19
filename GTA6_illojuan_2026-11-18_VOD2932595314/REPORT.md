@@ -4,6 +4,7 @@
 **Language:** Spanish → captions are **English translation (large) + original Spanish (small)**.
 **Delivered:** 1 clip from this stream (it's the round's #1 overall).
 **Format:** 1080×1920 · 60 fps · H.264/AAC · −14 LUFS.
+**Layout (v2):** his face enlarged in the top panel, the PS5 screen in the middle, and all captions and explainer cards in their own bottom band, so text never covers a face.
 
 ## Final_Clip_01.mp4 — "He deleted GTA 6 on launch night… in front of 430,000 viewers" (67 s)
 
