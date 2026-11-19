@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1
+Style: Npc,Inter ExtraBold,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,3,4,0,5,90,90,0,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,8,4,5,50,50,0,1
+Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:09.80,0:00:13.80,Note,,0,0,0,,{\pos(540,1550)\fad(80,80)}{\c&H5A5AFF&}PS5 ERROR:{\c&HFFFFFF&} "Can't connect to the server\Nto verify your license"
+Dialogue: 2,0:00:13.90,0:00:16.90,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}I DON'T HAVE WIFI...\N{\fs40\i1\c&HD8D8D8&\bord4}No tengo wifi...
+Dialogue: 2,0:00:17.00,0:00:19.90,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}OKAY, OKAY... NO HOME WIFI\N{\fs40\i1\c&HD8D8D8&\bord4}Bueno, bueno... que no tengo wifi de casa
+Dialogue: 2,0:00:19.90,0:00:22.70,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}I CAN'T BELIEVE IT\N{\fs40\i1\c&HD8D8D8&\bord4}No me lo puedo creer
+Dialogue: 2,0:00:22.90,0:00:27.00,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}I CAN'T BELIEVE IT... I NEARLY HAD A HEART ATTACK\N{\fs40\i1\c&HD8D8D8&\bord4}Ay, no me lo puedo creer... me ha quedado en un infarto
+Dialogue: 2,0:00:27.30,0:00:29.40,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}WE DON'T HAVE WIFI, MAN!\N{\fs40\i1\c&HD8D8D8&\bord4}¡Que no tenemos wifi, tío!
+Dialogue: 2,0:00:29.60,0:00:32.10,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}OKAY... I'M SHAKING\N{\fs40\i1\c&HD8D8D8&\bord4}Vale, estoy temblando
+Dialogue: 2,0:00:32.30,0:00:34.40,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}WHY DOES THIS HAPPEN TO ME?\N{\fs40\i1\c&HD8D8D8&\bord4}¿Por qué me pasa esto a mí?
+Dialogue: 2,0:00:34.60,0:00:38.20,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}I DON'T WANNA CRY, OKAY?\N{\fs40\i1\c&HD8D8D8&\bord4}No quiero llorar, eh
+Dialogue: 2,0:00:38.40,0:00:40.00,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}IS THIS HAPPENING TO EVERYONE?\N{\fs40\i1\c&HD8D8D8&\bord4}¿Le está pasando a todo Dios?
+Dialogue: 2,0:00:40.20,0:00:42.30,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}COME ON, TELL ME YES, PEPITO...\N{\fs40\i1\c&HD8D8D8&\bord4}Dime que sí, Pepito...
+Dialogue: 2,0:00:42.30,0:00:43.40,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}IT'S WORKING!\N{\fs40\i1\c&HD8D8D8&\bord4}¡Ya está!
+Dialogue: 2,0:00:43.40,0:00:44.50,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}NO, NO, NO.\N{\fs40\i1\c&HD8D8D8&\bord4}No, no, no.
+Dialogue: 2,0:00:44.70,0:00:47.50,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}"VERIFYING YOUR LICENSES..."\N{\fs40\i1\c&HD8D8D8&\bord4}"Se están verificando tus licencias"
+Dialogue: 2,0:00:47.50,0:00:52.60,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}VERIFY THEM... OR ELSE!\N{\fs40\i1\c&HD8D8D8&\bord4}O me las verificas... o te enchufo, ¿eh?
+Dialogue: 2,0:00:52.80,0:00:54.10,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}WE NEED WIFI, MAN!\N{\fs40\i1\c&HD8D8D8&\bord4}¡Necesitamos wifi, tío!
+Dialogue: 2,0:00:54.30,0:00:56.70,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}WE NEED WIFI, MAN!\N{\fs40\i1\c&HD8D8D8&\bord4}¡Necesitamos wifi, tío!
+Dialogue: 2,0:00:57.00,0:01:01.80,Cap,,0,0,0,,{\pos(540,1550)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\fs120}{\c&H00E5FF&}IT'S IN!!!\N{\fs40\i1\c&HD8D8D8&\bord4}¡Entra!
+Dialogue: 3,0:00:00.00,0:00:03.40,Hook,,0,0,0,,{\pos(540,250)\fad(0,200)\fscx92\fscy92\t(0,120,\fscx100\fscy100)}GTA 6 UNLOCKED AT MIDNIGHT...\N{\c&H00E5FF&}THEN THIS HAPPENED{\c&HFFFFFF&}
