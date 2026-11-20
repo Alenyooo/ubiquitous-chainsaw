@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="nav"><div class="wrap nav-inner"><a href="index.html" class="logo" data-brand>PeakFlow</a><a href="index.html#shop" class="btn btn-sm">Shop now</a></div></header>
+  <main class="page"><div class="wrap narrow">
+    <div class="center">
+      <div class="ficon" style="margin:0 auto 20px;width:72px;height:72px;font-size:34px">?</div>
+      <h1>Page not found</h1>
+      <p>The page you are looking for doesn't exist.</p>
+      <p>Questions? Email <a data-email href="#"></a>.</p>
+      <p style="margin-top:28px"><a class="btn" href="index.html">Back to the store</a></p>
+    </div>
+  </div></main>
+  <footer class="footer"><div class="wrap footer-inner"><div class="logo" data-brand>PeakFlow</div>
+    <nav class="footer-links"><a href="index.html#shop">Shop</a><a href="terms.html">Terms</a><a href="privacy.html">Privacy</a></nav></div></footer>
+  <script src="js/config.js"></script>
+  <script>
+    document.querySelectorAll("[data-brand]").forEach(function(e){e.textContent=STORE.brand});
+    document.querySelectorAll("[data-email]").forEach(function(e){e.textContent=STORE.email;if(e.tagName==="A")e.href="mailto:"+STORE.email});
+  </script>
+</body>
+</html>

@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PeakFlow — Training Bottles</title>
+  <meta name="description" content="Insulated steel bottles, protein shakers and gallon jugs built for training. Order online with secure checkout.">
+  <meta property="og:title" content="PeakFlow — Training Bottles">
+  <meta property="og:description" content="Bottles built for training. Secure checkout, fast shipping.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="banner" id="banner"></div>
+
+  <header class="nav">
+    <div class="wrap nav-inner">
+      <a href="#" class="logo" data-brand>PeakFlow</a>
+      <nav class="links">
+        <a href="#shop">Shop</a>
+        <a href="#why">Why us</a>
+        <a href="#faq">FAQ</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <a href="#shop" class="btn btn-sm">Shop now</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap hero-inner">
+        <div class="hero-copy">
+          <p class="eyebrow">Hydration gear for athletes</p>
+          <h1>Train harder.<br><span>Stay fueled.</span></h1>
+          <p class="lead" data-tagline>Bottles built for training.</p>
+          <p class="sub">Insulated steel bottles, protein shakers and gallon jugs designed for the gym, the track and everything in between.</p>
+          <div class="cta-row">
+            <a href="#shop" class="btn">Shop bottles</a>
+            <a href="#why" class="btn btn-ghost">Learn more</a>
+          </div>
+          <ul class="trust">
+            <li>Secure checkout</li>
+            <li>30-day returns</li>
+            <li>BPA-free</li>
+          </ul>
+        </div>
+        <div class="hero-art" id="heroArt" aria-hidden="true"></div>
+      </div>
+    </section>
+
+    <section id="shop" class="section">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>Shop the range</h2>
+          <p>Pick your bottle. Checkout takes under a minute.</p>
+        </div>
+        <div class="grid" id="products"></div>
+      </div>
+    </section>
+
+    <section id="why" class="section alt">
+      <div class="wrap">
+        <div class="section-head">
+          <h2>Built for the work</h2>
+          <p>Every bottle is designed around how athletes actually train.</p>
+        </div>
+        <div class="features">
+          <div class="feature"><div class="ficon">❄</div><h3>Ice cold for 24h</h3><p>Double-wall vacuum insulation keeps water cold through the longest sessions.</p></div>
+          <div class="feature"><div class="ficon">⛨</div><h3>Leak-proof</h3><p>Throw it in your gym bag. Lids are pressure-tested to stay sealed.</p></div>
+          <div class="feature"><div class="ficon">✓</div><h3>Safe materials</h3><p>18/8 stainless steel and BPA-free Tritan. No metallic taste.</p></div>
+          <div class="feature"><div class="ficon">↺</div><h3>30-day returns</h3><p>Not happy? Send it back within 30 days for a full refund.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="faq" class="section">
+      <div class="wrap narrow">
+        <div class="section-head"><h2>FAQ</h2></div>
+        <details><summary>How do I pay?</summary><p>Checkout is handled by Stripe. You can pay with all major credit and debit cards, and Apple Pay / Google Pay where available. We never see or store your card details.</p></details>
+        <details><summary>How long does shipping take?</summary><p>Orders ship within 1–2 business days. Delivery usually takes 3–7 business days depending on your location. You'll get an email confirmation as soon as you order.</p></details>
+        <details><summary>Are the bottles dishwasher safe?</summary><p>The Shaker Pro and Hydro Gallon are top-rack dishwasher safe. Hand-wash the Core Steel to protect the insulation and finish.</p></details>
+        <details><summary>Can I return my order?</summary><p>Yes — unused items can be returned within 30 days. See our <a href="terms.html#returns">returns policy</a>.</p></details>
+        <details><summary>Do you offer bulk or gym orders?</summary><p>Yes! We supply gyms, teams and events with custom-branded bottles. <a href="#contact">Get in touch</a> for pricing.</p></details>
+      </div>
+    </section>
+
+    <section id="contact" class="section alt">
+      <div class="wrap narrow center">
+        <h2>Questions? Bulk orders?</h2>
+        <p>Email us and we'll get back to you within one business day.</p>
+        <a class="btn" id="contactBtn" href="#">Email us</a>
+        <p class="muted small" id="contactEmail"></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-inner">
+      <div>
+        <div class="logo" data-brand>PeakFlow</div>
+        <p class="muted small" data-tagline>Bottles built for training.</p>
+      </div>
+      <nav class="footer-links">
+        <a href="#shop">Shop</a>
+        <a href="terms.html#shipping">Shipping</a>
+        <a href="terms.html#returns">Returns</a>
+        <a href="terms.html">Terms</a>
+        <a href="privacy.html">Privacy</a>
+        <a href="#" id="igLink" hidden>Instagram</a>
+      </nav>
+      <p class="muted small">© <span id="year"></span> <span data-brand>PeakFlow</span>. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <div class="toast" id="toast" role="status"></div>
+
+  <script src="js/config.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

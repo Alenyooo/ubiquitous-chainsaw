@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="nav"><div class="wrap nav-inner"><a href="index.html" class="logo" data-brand>PeakFlow</a><a href="index.html#shop" class="btn btn-sm">Shop now</a></div></header>
+  <main class="page"><div class="wrap narrow">
+    <h1>Privacy Policy</h1>
+    <p><span data-brand>PeakFlow</span> respects your privacy. This policy explains what we collect and why.</p>
+    <h2>What we collect</h2>
+    <p>When you buy, we receive your name, email, shipping address and order details from our payment provider, Stripe, so we can fulfil and support your order. Card details are handled entirely by Stripe and are never shared with us.</p>
+    <h2>How we use it</h2>
+    <ul><li>To process, ship and support your order</li><li>To respond to your messages</li><li>To meet legal and accounting obligations</li></ul>
+    <p>We do not sell your personal data. This website does not use advertising or tracking cookies.</p>
+    <h2>Third parties</h2>
+    <p>Payments: Stripe (<a href="https://stripe.com/privacy">stripe.com/privacy</a>). Hosting: GitHub Pages. Shipping carriers receive your address to deliver your order.</p>
+    <h2>Your rights</h2>
+    <p>You can ask us to access, correct or delete your personal data at any time by emailing <a data-email href="#"></a>.</p>
+  </div></main>
+  <footer class="footer"><div class="wrap footer-inner"><div class="logo" data-brand>PeakFlow</div>
+    <nav class="footer-links"><a href="index.html#shop">Shop</a><a href="terms.html">Terms</a><a href="privacy.html">Privacy</a></nav></div></footer>
+  <script src="js/config.js"></script>
+  <script>
+    document.querySelectorAll("[data-brand]").forEach(function(e){e.textContent=STORE.brand});
+    document.querySelectorAll("[data-email]").forEach(function(e){e.textContent=STORE.email;if(e.tagName==="A")e.href="mailto:"+STORE.email});
+  </script>
+</body>
+</html>
