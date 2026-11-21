@@ -1,0 +1,59 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1
+Style: Npc,Inter ExtraBold,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,3,4,0,5,90,90,0,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,8,4,5,50,50,0,1
+Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.18,0:00:00.60,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}COME{\c&H00FFFFFF&} HERE, LITTLE
+Dialogue: 2,0:00:00.60,0:00:00.80,Cap,,0,0,0,,{\pos(540,620)}COME {\c&H0000E5FF&}HERE,{\c&H00FFFFFF&} LITTLE
+Dialogue: 2,0:00:00.80,0:00:00.90,Cap,,0,0,0,,{\pos(540,620)}COME HERE, {\c&H0000E5FF&}LITTLE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.90,0:00:01.55,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}BUDDY!{\c&H00FFFFFF&}
+Dialogue: 2,0:00:02.70,0:00:03.12,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}COME{\c&H00FFFFFF&} HERE, LITTLE
+Dialogue: 2,0:00:03.12,0:00:03.42,Cap,,0,0,0,,{\pos(540,620)}COME {\c&H0000E5FF&}HERE,{\c&H00FFFFFF&} LITTLE
+Dialogue: 2,0:00:03.42,0:00:03.58,Cap,,0,0,0,,{\pos(540,620)}COME HERE, {\c&H0000E5FF&}LITTLE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:03.58,0:00:04.25,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}BUDDY!{\c&H00FFFFFF&}
+Dialogue: 2,0:00:04.38,0:00:04.50,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHAT'S{\c&H00FFFFFF&} UP, LITTLE
+Dialogue: 2,0:00:04.50,0:00:04.62,Cap,,0,0,0,,{\pos(540,620)}WHAT'S {\c&H0000E5FF&}UP,{\c&H00FFFFFF&} LITTLE
+Dialogue: 2,0:00:04.62,0:00:04.74,Cap,,0,0,0,,{\pos(540,620)}WHAT'S UP, {\c&H0000E5FF&}LITTLE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:04.74,0:00:05.14,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}MAN?{\c&H00FFFFFF&}
+Dialogue: 2,0:00:05.14,0:00:05.56,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}YOU{\c&H00FFFFFF&} A GOOD
+Dialogue: 2,0:00:05.56,0:00:05.64,Cap,,0,0,0,,{\pos(540,620)}YOU {\c&H0000E5FF&}A{\c&H00FFFFFF&} GOOD
+Dialogue: 2,0:00:05.64,0:00:05.74,Cap,,0,0,0,,{\pos(540,620)}YOU A {\c&H0000E5FF&}GOOD{\c&H00FFFFFF&}
+Dialogue: 2,0:00:05.74,0:00:06.21,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}BOY?{\c&H00FFFFFF&}
+Dialogue: 2,0:00:06.21,0:00:06.73,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WAIT,{\c&H00FFFFFF&} CAN I
+Dialogue: 2,0:00:06.73,0:00:06.85,Cap,,0,0,0,,{\pos(540,620)}WAIT, {\c&H0000E5FF&}CAN{\c&H00FFFFFF&} I
+Dialogue: 2,0:00:06.85,0:00:07.03,Cap,,0,0,0,,{\pos(540,620)}WAIT, CAN {\c&H0000E5FF&}I{\c&H00FFFFFF&}
+Dialogue: 2,0:00:07.03,0:00:07.41,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}KEEP{\c&H00FFFFFF&} HIM?
+Dialogue: 2,0:00:07.41,0:00:08.16,Cap,,0,0,0,,{\pos(540,620)}KEEP {\c&H0000E5FF&}HIM?{\c&H00FFFFFF&}
+Dialogue: 2,0:00:11.97,0:00:12.41,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ARE{\c&H00FFFFFF&} YOU OKAY
+Dialogue: 2,0:00:12.41,0:00:12.51,Cap,,0,0,0,,{\pos(540,620)}ARE {\c&H0000E5FF&}YOU{\c&H00FFFFFF&} OKAY
+Dialogue: 2,0:00:12.51,0:00:12.81,Cap,,0,0,0,,{\pos(540,620)}ARE YOU {\c&H0000E5FF&}OKAY{\c&H00FFFFFF&}
+Dialogue: 2,0:00:12.81,0:00:13.42,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NOW?{\c&H00FFFFFF&}
+Dialogue: 2,0:00:22.76,0:00:23.14,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} DID I
+Dialogue: 2,0:00:23.14,0:00:23.24,Cap,,0,0,0,,{\pos(540,620)}WHAT {\c&H0000E5FF&}DID{\c&H00FFFFFF&} I
+Dialogue: 2,0:00:23.24,0:00:23.38,Cap,,0,0,0,,{\pos(540,620)}WHAT DID {\c&H0000E5FF&}I{\c&H00FFFFFF&}
+Dialogue: 2,0:00:23.38,0:00:24.07,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}DO?{\c&H00FFFFFF&}
+Dialogue: 2,0:00:24.80,0:00:25.24,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} DID I
+Dialogue: 2,0:00:25.24,0:00:25.34,Cap,,0,0,0,,{\pos(540,620)}WHAT {\c&H0000E5FF&}DID{\c&H00FFFFFF&} I
+Dialogue: 2,0:00:25.34,0:00:25.56,Cap,,0,0,0,,{\pos(540,620)}WHAT DID {\c&H0000E5FF&}I{\c&H00FFFFFF&}
+Dialogue: 2,0:00:25.56,0:00:26.26,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}DO?{\c&H00FFFFFF&}
+Dialogue: 2,0:00:26.26,0:00:26.42,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} DID
+Dialogue: 2,0:00:26.42,0:00:26.89,Cap,,0,0,0,,{\pos(540,620)}WHAT {\c&H0000E5FF&}DID{\c&H00FFFFFF&}
+Dialogue: 2,0:00:29.05,0:00:29.07,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}I{\c&H00FFFFFF&} DO?
+Dialogue: 2,0:00:29.07,0:00:29.78,Cap,,0,0,0,,{\pos(540,620)}I {\c&H0000E5FF&}DO?{\c&H00FFFFFF&}
+Dialogue: 2,0:00:29.79,0:00:30.38,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HE'S{\c&H00FFFFFF&}
+Dialogue: 2,0:00:32.11,0:00:32.19,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}GOT{\c&H00FFFFFF&} TO BE
+Dialogue: 2,0:00:32.19,0:00:32.33,Cap,,0,0,0,,{\pos(540,620)}GOT {\c&H0000E5FF&}TO{\c&H00FFFFFF&} BE
+Dialogue: 2,0:00:32.33,0:00:32.43,Cap,,0,0,0,,{\pos(540,620)}GOT TO {\c&H0000E5FF&}BE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:32.43,0:00:33.40,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}RACIST.{\c&H00FFFFFF&}
+Dialogue: 2,0:00:33.95,0:00:34.74,Cap,,0,0,0,,{\pos(540,620)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}I{\c&H00FFFFFF&}
