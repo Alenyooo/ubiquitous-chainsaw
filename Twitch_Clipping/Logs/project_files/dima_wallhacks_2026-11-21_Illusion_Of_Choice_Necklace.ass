@@ -1,0 +1,95 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1
+Style: Npc,Inter ExtraBold,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,3,4,0,5,90,90,0,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,8,4,5,50,50,0,1
+Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:11.71,0:00:12.15,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} AN ANNOYING
+Dialogue: 2,0:00:12.15,0:00:12.39,Cap,,0,0,0,,{\pos(540,1560)}WHAT {\c&H0000E5FF&}AN{\c&H00FFFFFF&} ANNOYING
+Dialogue: 2,0:00:12.39,0:00:13.05,Cap,,0,0,0,,{\pos(540,1560)}WHAT AN {\c&H0000E5FF&}ANNOYING{\c&H00FFFFFF&}
+Dialogue: 2,0:00:13.05,0:00:13.55,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}F*CKING{\c&H00FFFFFF&} B*TCH I'M
+Dialogue: 2,0:00:13.55,0:00:13.95,Cap,,0,0,0,,{\pos(540,1560)}F*CKING {\c&H0000E5FF&}B*TCH{\c&H00FFFFFF&} I'M
+Dialogue: 2,0:00:13.95,0:00:14.23,Cap,,0,0,0,,{\pos(540,1560)}F*CKING B*TCH {\c&H0000E5FF&}I'M{\c&H00FFFFFF&}
+Dialogue: 2,0:00:14.23,0:00:14.33,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NOT{\c&H00FFFFFF&} GIVING YOU
+Dialogue: 2,0:00:14.33,0:00:14.57,Cap,,0,0,0,,{\pos(540,1560)}NOT {\c&H0000E5FF&}GIVING{\c&H00FFFFFF&} YOU
+Dialogue: 2,0:00:14.57,0:00:14.69,Cap,,0,0,0,,{\pos(540,1560)}NOT GIVING {\c&H0000E5FF&}YOU{\c&H00FFFFFF&}
+Dialogue: 2,0:00:14.69,0:00:14.75,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THE{\c&H00FFFFFF&} NECKLACE NO
+Dialogue: 2,0:00:14.75,0:00:14.97,Cap,,0,0,0,,{\pos(540,1560)}THE {\c&H0000E5FF&}NECKLACE{\c&H00FFFFFF&} NO
+Dialogue: 2,0:00:14.97,0:00:15.23,Cap,,0,0,0,,{\pos(540,1560)}THE NECKLACE {\c&H0000E5FF&}NO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:15.23,0:00:15.35,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO NO
+Dialogue: 2,0:00:15.35,0:00:15.51,Cap,,0,0,0,,{\pos(540,1560)}NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO
+Dialogue: 2,0:00:15.51,0:00:15.69,Cap,,0,0,0,,{\pos(540,1560)}NO NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:15.69,0:00:15.81,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO NO
+Dialogue: 2,0:00:15.81,0:00:15.93,Cap,,0,0,0,,{\pos(540,1560)}NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO
+Dialogue: 2,0:00:15.93,0:00:16.01,Cap,,0,0,0,,{\pos(540,1560)}NO NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:16.01,0:00:16.09,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} GO GO
+Dialogue: 2,0:00:16.09,0:00:16.59,Cap,,0,0,0,,{\pos(540,1560)}NO {\c&H0000E5FF&}GO{\c&H00FFFFFF&} GO
+Dialogue: 2,0:00:16.59,0:00:16.73,Cap,,0,0,0,,{\pos(540,1560)}NO GO {\c&H0000E5FF&}GO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:16.73,0:00:17.76,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}YOURSELF{\c&H00FFFFFF&}
+Dialogue: 2,0:00:19.17,0:00:19.61,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}BUT{\c&H00FFFFFF&} I NEED
+Dialogue: 2,0:00:19.61,0:00:19.79,Cap,,0,0,0,,{\pos(540,1560)}BUT {\c&H0000E5FF&}I{\c&H00FFFFFF&} NEED
+Dialogue: 2,0:00:19.79,0:00:20.03,Cap,,0,0,0,,{\pos(540,1560)}BUT I {\c&H0000E5FF&}NEED{\c&H00FFFFFF&}
+Dialogue: 2,0:00:20.03,0:00:20.19,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}IT{\c&H00FFFFFF&} BACK
+Dialogue: 2,0:00:20.19,0:00:20.84,Cap,,0,0,0,,{\pos(540,1560)}IT {\c&H0000E5FF&}BACK{\c&H00FFFFFF&}
+Dialogue: 2,0:00:23.65,0:00:23.99,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHAT'S{\c&H00FFFFFF&} THE POINT
+Dialogue: 2,0:00:23.99,0:00:24.09,Cap,,0,0,0,,{\pos(540,1560)}WHAT'S {\c&H0000E5FF&}THE{\c&H00FFFFFF&} POINT
+Dialogue: 2,0:00:24.09,0:00:24.47,Cap,,0,0,0,,{\pos(540,1560)}WHAT'S THE {\c&H0000E5FF&}POINT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:24.47,0:00:24.71,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OF{\c&H00FFFFFF&} THE TRIANGLE
+Dialogue: 2,0:00:24.71,0:00:24.91,Cap,,0,0,0,,{\pos(540,1560)}OF {\c&H0000E5FF&}THE{\c&H00FFFFFF&} TRIANGLE
+Dialogue: 2,0:00:24.91,0:00:25.31,Cap,,0,0,0,,{\pos(540,1560)}OF THE {\c&H0000E5FF&}TRIANGLE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:25.31,0:00:25.77,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ANIMATION{\c&H00FFFFFF&} IF I
+Dialogue: 2,0:00:25.77,0:00:26.51,Cap,,0,0,0,,{\pos(540,1560)}ANIMATION {\c&H0000E5FF&}IF{\c&H00FFFFFF&} I
+Dialogue: 2,0:00:26.51,0:00:26.63,Cap,,0,0,0,,{\pos(540,1560)}ANIMATION IF {\c&H0000E5FF&}I{\c&H00FFFFFF&}
+Dialogue: 2,0:00:26.63,0:00:26.81,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}JUST{\c&H00FFFFFF&} SKIP IT
+Dialogue: 2,0:00:26.81,0:00:27.07,Cap,,0,0,0,,{\pos(540,1560)}JUST {\c&H0000E5FF&}SKIP{\c&H00FFFFFF&} IT
+Dialogue: 2,0:00:27.07,0:00:27.25,Cap,,0,0,0,,{\pos(540,1560)}JUST SKIP {\c&H0000E5FF&}IT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:27.25,0:00:27.39,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}AND{\c&H00FFFFFF&} IT STILL
+Dialogue: 2,0:00:27.39,0:00:27.49,Cap,,0,0,0,,{\pos(540,1560)}AND {\c&H0000E5FF&}IT{\c&H00FFFFFF&} STILL
+Dialogue: 2,0:00:27.49,0:00:27.73,Cap,,0,0,0,,{\pos(540,1560)}AND IT {\c&H0000E5FF&}STILL{\c&H00FFFFFF&}
+Dialogue: 2,0:00:27.73,0:00:27.89,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}DOES{\c&H00FFFFFF&} IT ANYWAYS
+Dialogue: 2,0:00:27.89,0:00:28.11,Cap,,0,0,0,,{\pos(540,1560)}DOES {\c&H0000E5FF&}IT{\c&H00FFFFFF&} ANYWAYS
+Dialogue: 2,0:00:28.11,0:00:28.55,Cap,,0,0,0,,{\pos(540,1560)}DOES IT {\c&H0000E5FF&}ANYWAYS{\c&H00FFFFFF&}
+Dialogue: 2,0:00:28.55,0:00:29.03,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} IS THAT
+Dialogue: 2,0:00:29.03,0:00:29.15,Cap,,0,0,0,,{\pos(540,1560)}WHAT {\c&H0000E5FF&}IS{\c&H00FFFFFF&} THAT
+Dialogue: 2,0:00:29.15,0:00:29.27,Cap,,0,0,0,,{\pos(540,1560)}WHAT IS {\c&H0000E5FF&}THAT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:29.27,0:00:29.57,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ACCOMPLISHED{\c&H00FFFFFF&} DUDE
+Dialogue: 2,0:00:29.57,0:00:29.93,Cap,,0,0,0,,{\pos(540,1560)}ACCOMPLISHED {\c&H0000E5FF&}DUDE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:29.93,0:00:30.81,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}I{\c&H00FFFFFF&} DIDN'T PRESS
+Dialogue: 2,0:00:30.81,0:00:31.11,Cap,,0,0,0,,{\pos(540,1560)}I {\c&H0000E5FF&}DIDN'T{\c&H00FFFFFF&} PRESS
+Dialogue: 2,0:00:31.11,0:00:31.25,Cap,,0,0,0,,{\pos(540,1560)}I DIDN'T {\c&H0000E5FF&}PRESS{\c&H00FFFFFF&}
+Dialogue: 2,0:00:31.25,0:00:31.41,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THE{\c&H00FFFFFF&} TRIANGLE BRO
+Dialogue: 2,0:00:31.41,0:00:31.65,Cap,,0,0,0,,{\pos(540,1560)}THE {\c&H0000E5FF&}TRIANGLE{\c&H00FFFFFF&} BRO
+Dialogue: 2,0:00:31.65,0:00:32.26,Cap,,0,0,0,,{\pos(540,1560)}THE TRIANGLE {\c&H0000E5FF&}BRO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:33.17,0:00:33.65,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}YEAH{\c&H00FFFFFF&} WHAT IS
+Dialogue: 2,0:00:33.65,0:00:33.83,Cap,,0,0,0,,{\pos(540,1560)}YEAH {\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} IS
+Dialogue: 2,0:00:33.83,0:00:33.95,Cap,,0,0,0,,{\pos(540,1560)}YEAH WHAT {\c&H0000E5FF&}IS{\c&H00FFFFFF&}
+Dialogue: 2,0:00:33.95,0:00:34.05,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THE{\c&H00FFFFFF&} ILLUSION OF
+Dialogue: 2,0:00:34.05,0:00:34.67,Cap,,0,0,0,,{\pos(540,1560)}THE {\c&H0000E5FF&}ILLUSION{\c&H00FFFFFF&} OF
+Dialogue: 2,0:00:34.67,0:00:35.09,Cap,,0,0,0,,{\pos(540,1560)}THE ILLUSION {\c&H0000E5FF&}OF{\c&H00FFFFFF&}
+Dialogue: 2,0:00:35.09,0:00:35.43,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}CHOICE{\c&H00FFFFFF&} LIKE
+Dialogue: 2,0:00:35.43,0:00:35.71,Cap,,0,0,0,,{\pos(540,1560)}CHOICE {\c&H0000E5FF&}LIKE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:35.71,0:00:35.87,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}BROTHER{\c&H00FFFFFF&} HELLO I
+Dialogue: 2,0:00:35.87,0:00:36.13,Cap,,0,0,0,,{\pos(540,1560)}BROTHER {\c&H0000E5FF&}HELLO{\c&H00FFFFFF&} I
+Dialogue: 2,0:00:36.13,0:00:36.81,Cap,,0,0,0,,{\pos(540,1560)}BROTHER HELLO {\c&H0000E5FF&}I{\c&H00FFFFFF&}
+Dialogue: 2,0:00:36.81,0:00:37.03,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}DIDN'T{\c&H00FFFFFF&} PRESS THE
+Dialogue: 2,0:00:37.03,0:00:37.19,Cap,,0,0,0,,{\pos(540,1560)}DIDN'T {\c&H0000E5FF&}PRESS{\c&H00FFFFFF&} THE
+Dialogue: 2,0:00:37.19,0:00:37.33,Cap,,0,0,0,,{\pos(540,1560)}DIDN'T PRESS {\c&H0000E5FF&}THE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:37.33,0:00:37.70,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}TRIANGLE{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.10,0:00:02.20,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&HB4B4B4&}MANAGER: {\c&HFFFFFF&}That's a pretty necklace, isn't it?
+Dialogue: 1,0:00:03.10,0:00:05.70,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&HB4B4B4&}MANAGER: {\c&HFFFFFF&}Why don't I hold onto that for you, hmm?
+Dialogue: 1,0:00:05.80,0:00:08.20,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&HB4B4B4&}MANAGER: {\c&HFFFFFF&}You can get it when you hand over your rent.
+Dialogue: 1,0:00:08.40,0:00:10.30,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&HC07AFF&}LUCIA: {\c&HFFFFFF&}It... it means a lot to me.
+Dialogue: 1,0:00:10.40,0:00:11.30,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&HB4B4B4&}MANAGER: {\c&HFFFFFF&}Oh, good!
+Dialogue: 1,0:00:17.30,0:00:18.30,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&HC07AFF&}LUCIA: {\c&HFFFFFF&}Fine.
+Dialogue: 1,0:00:22.20,0:00:23.30,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&HB4B4B4&}MANAGER: {\c&HFFFFFF&}Just bring me the money.
+Dialogue: 3,0:00:00.00,0:00:03.20,Hook,,0,0,0,,{\pos(540,720)\fad(0,200)\fscx92\fscy92\t(0,120,\fscx100\fscy100)}GTA 6 GAVE HIM A CHOICE...\N{\c&H00E5FF&}IT WAS A LIE{\c&HFFFFFF&}

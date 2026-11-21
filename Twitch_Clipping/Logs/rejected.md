@@ -1,0 +1,15 @@
+# Rejected moments — cycle 1 (21 Nov 2026)
+| Streamer | Moment | Source | Reason |
+|---|---|---|---|
+| zloyn | Top clips "грязюка" 66k, "Сисюли" 63k, "222222" 21k, "душ", "Йосып", "пицдец", "Я В СТРИПУХУ ХОЧУ" | day 1-3 VODs | Strip club / shower / sex scenes — nudity, not platform-safe |
+| zloyn | "Работяги", "Кабан" | day 1 | Ordinary shootout gameplay |
+| zloyn | Day 4 loudness spikes (2:10–2:52, 9:20–9:29) | v2935494247 | Off-game (night audiobook, shower, waking up, food) |
+| lacy | "got caught" 9.1k (girlfriend walks in) | v2933767012 | Funny line but played over full-nudity lap dance |
+| lacy | "LUCIA", "wtf" (shower), strip club | v2932194507 | Sexual content |
+| marlon | "gyattttttt" 79k | v2932567591 | Mandy scene — sexual framing, duplicate of earlier Kai clip |
+| dima_wallhacks | "hey furi" / "Ragebait" / NPC dab | v2933492133 | Too short / weak payoff |
+| karchez | All loudness/transcript spikes of v2935976580 (3h10m) | live VOD | Scripted story cutscenes, calm reactions; channel has ~no viewer clips (max 27 views) |
+| lacy | 0:29 checkout panic | v2935059680 | Off-game online shopping |
+| lacy | 9:10 "my PS5 turned off… I will end this marathon" | v2935059680 | Group dinner then black "NO SIGNAL" screen — nothing to show |
+| lacy | 14:56 shower | v2935059680 | Sexual content |
+| marlon | 7:32 wrestling / "choking me out" | v2935183263 | Unclear on screen |

@@ -1,0 +1,69 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1
+Style: Npc,Inter ExtraBold,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,3,4,0,5,90,90,0,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,8,4,5,50,50,0,1
+Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.22,0:00:00.78,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}IT'S{\c&H00FFFFFF&} A WOMAN
+Dialogue: 2,0:00:00.78,0:00:01.12,Cap,,0,0,0,,{\pos(540,1560)}IT'S A {\c&H0000E5FF&}WOMAN{\c&H00FFFFFF&}
+Dialogue: 2,0:00:01.12,0:00:01.84,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}SHE{\c&H00FFFFFF&} GOT KIDNAPPED
+Dialogue: 2,0:00:01.84,0:00:02.00,Cap,,0,0,0,,{\pos(540,1560)}SHE {\c&H0000E5FF&}GOT{\c&H00FFFFFF&} KIDNAPPED
+Dialogue: 2,0:00:02.00,0:00:02.32,Cap,,0,0,0,,{\pos(540,1560)}SHE GOT {\c&H0000E5FF&}KIDNAPPED{\c&H00FFFFFF&}
+Dialogue: 2,0:00:02.32,0:00:03.75,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHAT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:05.48,0:00:05.60,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THE{\c&H00FFFFFF&} F*CK THAT
+Dialogue: 2,0:00:05.60,0:00:05.90,Cap,,0,0,0,,{\pos(540,1560)}THE {\c&H0000E5FF&}F*CK{\c&H00FFFFFF&} THAT
+Dialogue: 2,0:00:05.90,0:00:06.12,Cap,,0,0,0,,{\pos(540,1560)}THE F*CK {\c&H0000E5FF&}THAT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:06.12,0:00:07.26,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}JUST{\c&H00FFFFFF&} TOOK A
+Dialogue: 2,0:00:07.26,0:00:07.48,Cap,,0,0,0,,{\pos(540,1560)}JUST {\c&H0000E5FF&}TOOK{\c&H00FFFFFF&} A
+Dialogue: 2,0:00:07.48,0:00:07.60,Cap,,0,0,0,,{\pos(540,1560)}JUST TOOK {\c&H0000E5FF&}A{\c&H00FFFFFF&}
+Dialogue: 2,0:00:07.60,0:00:07.96,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}MASSIVE{\c&H00FFFFFF&} TURN
+Dialogue: 2,0:00:07.96,0:00:08.61,Cap,,0,0,0,,{\pos(540,1560)}MASSIVE {\c&H0000E5FF&}TURN{\c&H00FFFFFF&}
+Dialogue: 2,0:00:15.30,0:00:15.63,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WAIT{\c&H00FFFFFF&} I GOTTA
+Dialogue: 2,0:00:15.63,0:00:15.75,Cap,,0,0,0,,{\pos(540,1560)}WAIT {\c&H0000E5FF&}I{\c&H00FFFFFF&} GOTTA
+Dialogue: 2,0:00:15.75,0:00:15.93,Cap,,0,0,0,,{\pos(540,1560)}WAIT I {\c&H0000E5FF&}GOTTA{\c&H00FFFFFF&}
+Dialogue: 2,0:00:15.93,0:00:16.09,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}PUT{\c&H00FFFFFF&} THIS ON
+Dialogue: 2,0:00:16.09,0:00:16.23,Cap,,0,0,0,,{\pos(540,1560)}PUT {\c&H0000E5FF&}THIS{\c&H00FFFFFF&} ON
+Dialogue: 2,0:00:16.23,0:00:16.33,Cap,,0,0,0,,{\pos(540,1560)}PUT THIS {\c&H0000E5FF&}ON{\c&H00FFFFFF&}
+Dialogue: 2,0:00:16.33,0:00:16.81,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}SNAPCHAT{\c&H00FFFFFF&} MY
+Dialogue: 2,0:00:16.81,0:00:17.29,Cap,,0,0,0,,{\pos(540,1560)}SNAPCHAT {\c&H0000E5FF&}MY{\c&H00FFFFFF&}
+Dialogue: 2,0:00:17.29,0:00:17.59,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}VIEWERS{\c&H00FFFFFF&} ARE GONNA
+Dialogue: 2,0:00:17.59,0:00:17.75,Cap,,0,0,0,,{\pos(540,1560)}VIEWERS {\c&H0000E5FF&}ARE{\c&H00FFFFFF&} GONNA
+Dialogue: 2,0:00:17.75,0:00:17.85,Cap,,0,0,0,,{\pos(540,1560)}VIEWERS ARE {\c&H0000E5FF&}GONNA{\c&H00FFFFFF&}
+Dialogue: 2,0:00:17.85,0:00:18.03,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}LOVE{\c&H00FFFFFF&} THIS ONE
+Dialogue: 2,0:00:18.03,0:00:18.17,Cap,,0,0,0,,{\pos(540,1560)}LOVE {\c&H0000E5FF&}THIS{\c&H00FFFFFF&} ONE
+Dialogue: 2,0:00:18.17,0:00:18.70,Cap,,0,0,0,,{\pos(540,1560)}LOVE THIS {\c&H0000E5FF&}ONE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:29.12,0:00:29.82,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} THE F*CK
+Dialogue: 2,0:00:29.82,0:00:30.24,Cap,,0,0,0,,{\pos(540,1560)}WHAT {\c&H0000E5FF&}THE{\c&H00FFFFFF&} F*CK
+Dialogue: 2,0:00:30.24,0:00:30.62,Cap,,0,0,0,,{\pos(540,1560)}WHAT THE {\c&H0000E5FF&}F*CK{\c&H00FFFFFF&}
+Dialogue: 2,0:00:30.62,0:00:30.98,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WAS{\c&H00FFFFFF&} THAT CHAT?
+Dialogue: 2,0:00:30.98,0:00:31.32,Cap,,0,0,0,,{\pos(540,1560)}WAS {\c&H0000E5FF&}THAT{\c&H00FFFFFF&} CHAT?
+Dialogue: 2,0:00:31.32,0:00:31.95,Cap,,0,0,0,,{\pos(540,1560)}WAS THAT {\c&H0000E5FF&}CHAT?{\c&H00FFFFFF&}
+Dialogue: 2,0:00:48.60,0:00:48.68,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} THE IS
+Dialogue: 2,0:00:48.68,0:00:48.76,Cap,,0,0,0,,{\pos(540,1560)}WHAT {\c&H0000E5FF&}THE{\c&H00FFFFFF&} IS
+Dialogue: 2,0:00:48.76,0:00:48.88,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}F*CK{\c&H00FFFFFF&} THIS GAME?
+Dialogue: 2,0:00:48.88,0:00:49.02,Cap,,0,0,0,,{\pos(540,1560)}F*CK {\c&H0000E5FF&}THIS{\c&H00FFFFFF&} GAME?
+Dialogue: 2,0:00:49.02,0:00:49.28,Cap,,0,0,0,,{\pos(540,1560)}F*CK THIS {\c&H0000E5FF&}GAME?{\c&H00FFFFFF&}
+Dialogue: 2,0:00:49.28,0:00:49.62,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}IT{\c&H00FFFFFF&} WAS ALL
+Dialogue: 2,0:00:49.62,0:00:49.74,Cap,,0,0,0,,{\pos(540,1560)}IT {\c&H0000E5FF&}WAS{\c&H00FFFFFF&} ALL
+Dialogue: 2,0:00:49.74,0:00:49.94,Cap,,0,0,0,,{\pos(540,1560)}IT WAS {\c&H0000E5FF&}ALL{\c&H00FFFFFF&}
+Dialogue: 2,0:00:49.94,0:00:50.06,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}A{\c&H00FFFFFF&} DREAM?
+Dialogue: 2,0:00:50.06,0:00:50.67,Cap,,0,0,0,,{\pos(540,1560)}A {\c&H0000E5FF&}DREAM?{\c&H00FFFFFF&}
+Dialogue: 1,0:00:26.00,0:00:29.00,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE0FF&}JASON: {\c&HFFFFFF&}Hey... hey, it's okay. It's gone.
+Dialogue: 1,0:00:34.60,0:00:36.60,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE0FF&}JASON: {\c&HFFFFFF&}Oh, oh sh*t...
+Dialogue: 1,0:00:42.60,0:00:45.10,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE0FF&}JASON: {\c&HFFFFFF&}What the f*ck?
+Dialogue: 1,0:00:50.50,0:00:52.40,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE0FF&}JASON: {\c&HFFFFFF&}Lu?
+Dialogue: 1,0:00:52.50,0:00:55.40,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&HC07AFF&}LUCIA: {\c&HFFFFFF&}Jay! Thank God... I thought...
+Dialogue: 1,0:00:55.40,0:01:01.20,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE0FF&}JASON: {\c&HFFFFFF&}Wait, how long have I been gone for?
+Dialogue: 1,0:01:01.30,0:01:03.20,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&HC07AFF&}LUCIA: {\c&HFFFFFF&}Like... three days?
+Dialogue: 1,0:01:03.30,0:01:06.40,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE0FF&}JASON: {\c&HFFFFFF&}Three days? Man...
+Dialogue: 3,0:00:00.00,0:00:03.40,Hook,,0,0,0,,{\pos(540,720)\fad(0,200)\fscx92\fscy92\t(0,120,\fscx100\fscy100)}HE FOUND ALIENS IN GTA 6...\N{\c&H00E5FF&}THEN THEY TOOK HIM{\c&HFFFFFF&}
