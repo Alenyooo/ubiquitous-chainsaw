@@ -14,15 +14,11 @@ Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:01.70,0:00:02.80,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}COME HERE, LITTLE BUDDY!
-Dialogue: 2,0:00:04.20,0:00:07.50,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}WHAT'S UP, LITTLE MAN?\NYOU A GOOD BOY?
-Dialogue: 2,0:00:12.10,0:00:13.60,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}HANDSOME LITTLE MAN,\NAREN'T YOU?
-Dialogue: 2,0:00:19.00,0:00:20.40,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}YOU GOT IT ALL WORKED OUT,\NHUH BUDDY?
-Dialogue: 2,0:00:21.20,0:00:22.80,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H00E5FF&}WAIT... CAN I KEEP HIM?
-Dialogue: 2,0:00:24.10,0:00:25.60,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}HEY BUDDY, COME HERE
-Dialogue: 2,0:00:26.40,0:00:28.00,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}COME HERE, LITTLE BUDDY.\NIT'S OKAY.
-Dialogue: 2,0:00:36.70,0:00:37.90,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}ARE YOU OKAY NOW?
-Dialogue: 2,0:00:47.50,0:00:50.60,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H00E5FF&}WHAT DID I DO?\NWHAT DID I DO?
-Dialogue: 2,0:00:54.50,0:00:57.40,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}HE'S GOTTA BE RACIST!
-Dialogue: 2,0:00:58.50,0:01:01.60,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}I WAS JUST TRYING TO\N{\c&H00E5FF&}PLAY WITH THE DOG!
+Dialogue: 2,0:00:00.10,0:00:01.20,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}COME HERE, LITTLE BUDDY!
+Dialogue: 2,0:00:02.60,0:00:05.90,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}WHAT'S UP, LITTLE MAN?\NYOU A GOOD BOY?
+Dialogue: 2,0:00:06.10,0:00:07.70,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H00E5FF&}WAIT... CAN I KEEP HIM?
+Dialogue: 2,0:00:11.90,0:00:13.10,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}ARE YOU OKAY NOW?
+Dialogue: 2,0:00:22.70,0:00:25.80,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H00E5FF&}WHAT DID I DO?\NWHAT DID I DO?
+Dialogue: 2,0:00:29.70,0:00:32.60,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}HE'S GOTTA BE RACIST!
+Dialogue: 2,0:00:33.70,0:00:36.80,Cap,,0,0,0,,{\pos(540,1790)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}I WAS JUST TRYING TO\N{\c&H00E5FF&}PLAY WITH THE DOG!
 Dialogue: 3,0:00:00.00,0:00:03.40,Hook,,0,0,0,,{\pos(540,760)\fad(0,200)\fscx92\fscy92\t(0,120,\fscx100\fscy100)}HE JUST WANTED TO PET A PUPPY IN GTA 6...\N{\c&H00E5FF&}THE COPS DIDN'T AGREE{\c&HFFFFFF&}

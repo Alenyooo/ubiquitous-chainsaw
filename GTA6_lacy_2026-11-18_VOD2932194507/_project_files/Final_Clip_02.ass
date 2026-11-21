@@ -14,16 +14,17 @@ Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:00.00,0:00:03.30,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}RIGHT NOW IT'S 11:17 PM FOR ME
-Dialogue: 2,0:00:04.40,0:00:07.50,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}IN NEW ZEALAND THE GAME COMES OUT\NIN LESS THAN 45 MINUTES
-Dialogue: 2,0:00:07.60,0:00:13.20,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}ME AND {\c&H00E5FF&}XQC{\c&HFFFFFF&} TOOK A FLIGHT TOGETHER\NTO COME TO NEW ZEALAND
-Dialogue: 2,0:00:13.30,0:00:17.40,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}WHY WOULD I LARP\NBEING IN NEW ZEALAND?
-Dialogue: 2,0:00:17.40,0:00:21.60,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}THEN HOW IS GTA 6\N{\c&H00E5FF&}PLAYABLE IN 42 MINUTES?!
-Dialogue: 2,0:00:21.70,0:00:25.10,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}THIS IS GENUINELY\NABOUT TO BE CRAZY
-Dialogue: 2,0:00:25.20,0:00:27.40,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}I'M GONNA BE THE\N{\c&H00E5FF&}FIRST STREAMER TO PLAY GTA
-Dialogue: 2,0:00:27.50,0:00:30.80,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}50 SECONDS...\NTHIS FEELS SO SURREAL
-Dialogue: 2,0:00:31.30,0:00:35.50,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}WE HAVE BEEN WAITING\NFOR THIS FOR YEARS
-Dialogue: 2,0:00:35.60,0:00:40.90,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}GRAND THEFT AUTO 6\NOFFICIALLY COMES OUT IN...
-Dialogue: 2,0:00:41.00,0:00:48.30,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H00E5FF&}10... 9... 8... 7... 6... 5...
-Dialogue: 2,0:01:00.40,0:01:03.80,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H00E5FF&}HERE WE GO.
+Dialogue: 2,0:00:00.00,0:00:03.10,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}IN NEW ZEALAND THE GAME COMES OUT\NIN LESS THAN 45 MINUTES
+Dialogue: 2,0:00:03.20,0:00:08.80,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}ME AND {\c&H00E5FF&}XQC{\c&HFFFFFF&} TOOK A FLIGHT TOGETHER\NTO COME TO NEW ZEALAND
+Dialogue: 2,0:00:08.90,0:00:10.50,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}WHY WOULD I LARP\NBEING IN NEW ZEALAND?
+Dialogue: 2,0:00:10.50,0:00:14.70,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}THEN HOW IS GTA 6\N{\c&H00E5FF&}PLAYABLE IN 42 MINUTES?!
+Dialogue: 2,0:00:14.80,0:00:17.00,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}I'M GONNA BE THE\N{\c&H00E5FF&}FIRST STREAMER TO PLAY GTA
+Dialogue: 2,0:00:17.10,0:00:20.40,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}50 SECONDS...\NTHIS FEELS SO SURREAL
+Dialogue: 2,0:00:20.50,0:00:27.80,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H00E5FF&}10... 9... 8... 7... 6... 5...
+Dialogue: 2,0:00:35.70,0:00:38.80,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}VICE CITY, TWO YEARS AGO...
+Dialogue: 2,0:00:39.00,0:00:41.70,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}OH MY GOD, SHE'S SO FINE
+Dialogue: 2,0:00:41.70,0:00:44.80,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H00E5FF&}THAT'S MY GIRL. THAT'S MY GIRL
+Dialogue: 2,0:00:45.50,0:00:46.90,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&HB4B4B4&}COP: {\c&HFFFFFF&}You know this guy?
+Dialogue: 2,0:00:47.10,0:00:50.40,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&HB4B4B4&}LUCIA: {\c&HFFFFFF&}Yeah, he’s my boyfriend.
+Dialogue: 2,0:00:50.50,0:00:52.50,Cap,,0,0,0,,{\pos(540,1460)\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\fs130}{\c&H00E5FF&}WHAT?!
 Dialogue: 3,0:00:00.00,0:00:03.40,Hook,,0,0,0,,{\pos(540,1170)\fad(0,200)\fscx92\fscy92\t(0,120,\fscx100\fscy100)}HE FLEW TO NEW ZEALAND\N{\c&H00E5FF&}TO PLAY GTA 6 FIRST{\c&HFFFFFF&}
