@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1
+Style: Npc,Inter ExtraBold,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,3,4,0,5,90,90,0,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,8,4,5,50,50,0,1
+Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:05.49,0:00:05.97,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}SHOOT{\c&H00FFFFFF&} THE LOCK
+Dialogue: 2,0:00:05.97,0:00:06.45,Cap,,0,0,0,,{\pos(540,1560)}SHOOT {\c&H0000E5FF&}THE{\c&H00FFFFFF&} LOCK
+Dialogue: 2,0:00:06.45,0:00:06.79,Cap,,0,0,0,,{\pos(540,1560)}SHOOT THE {\c&H0000E5FF&}LOCK{\c&H00FFFFFF&}
+Dialogue: 2,0:00:06.79,0:00:07.37,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WAIT{\c&H00FFFFFF&} CAN I
+Dialogue: 2,0:00:07.37,0:00:07.65,Cap,,0,0,0,,{\pos(540,1560)}WAIT {\c&H0000E5FF&}CAN{\c&H00FFFFFF&} I
+Dialogue: 2,0:00:07.65,0:00:07.77,Cap,,0,0,0,,{\pos(540,1560)}WAIT CAN {\c&H0000E5FF&}I{\c&H00FFFFFF&}
+Dialogue: 2,0:00:07.77,0:00:07.89,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}SHOOT{\c&H00FFFFFF&} THE LOCK
+Dialogue: 2,0:00:07.89,0:00:08.01,Cap,,0,0,0,,{\pos(540,1560)}SHOOT {\c&H0000E5FF&}THE{\c&H00FFFFFF&} LOCK
+Dialogue: 2,0:00:08.01,0:00:08.58,Cap,,0,0,0,,{\pos(540,1560)}SHOOT THE {\c&H0000E5FF&}LOCK{\c&H00FFFFFF&}
+Dialogue: 2,0:01:09.88,0:01:10.16,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THAT{\c&H00FFFFFF&} WAS US!
+Dialogue: 2,0:01:10.16,0:01:10.44,Cap,,0,0,0,,{\pos(540,1560)}THAT {\c&H0000E5FF&}WAS{\c&H00FFFFFF&} US!
+Dialogue: 2,0:01:10.44,0:01:11.01,Cap,,0,0,0,,{\pos(540,1560)}THAT WAS {\c&H0000E5FF&}US!{\c&H00FFFFFF&}
+Dialogue: 2,0:01:11.38,0:01:11.74,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WAIT,{\c&H00FFFFFF&} YOU DID
+Dialogue: 2,0:01:11.74,0:01:11.84,Cap,,0,0,0,,{\pos(540,1560)}WAIT, YOU {\c&H0000E5FF&}DID{\c&H00FFFFFF&}
+Dialogue: 2,0:01:11.84,0:01:12.00,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HEAR{\c&H00FFFFFF&} IT?
+Dialogue: 2,0:01:12.00,0:01:12.22,Cap,,0,0,0,,{\pos(540,1560)}HEAR {\c&H0000E5FF&}IT?{\c&H00FFFFFF&}
+Dialogue: 2,0:01:12.22,0:01:12.38,Cap,,0,0,0,,{\pos(540,1560)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WAIT,{\c&H00FFFFFF&} F*CK!
+Dialogue: 2,0:01:12.38,0:01:12.93,Cap,,0,0,0,,{\pos(540,1560)}WAIT, {\c&H0000E5FF&}F*CK!{\c&H00FFFFFF&}
+Dialogue: 1,0:00:00.10,0:00:05.10,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE07C&}ACTIVISTS: {\c&HFFFFFF&}Let her out! Let her out!
+Dialogue: 1,0:00:08.20,0:00:11.00,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE07C&}ACTIVIST: {\c&HFFFFFF&}You are the creator of boundaries! Yeah!
+Dialogue: 1,0:00:11.20,0:00:16.70,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE07C&}ACTIVISTS: {\c&HFFFFFF&}Yes! Do it! Shoot the lock! Free our sister!
+Dialogue: 1,0:00:19.00,0:00:22.50,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE07C&}ACTIVIST: {\c&HFFFFFF&}Do it! Use the tools of violence for good!
+Dialogue: 1,0:00:22.50,0:00:27.80,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE07C&}ACTIVIST: {\c&HFFFFFF&}Awesome! Now let's liberate our sister!
+Dialogue: 1,0:00:28.00,0:00:32.00,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&HB4B4B4&}BYSTANDER: {\c&HFFFFFF&}Sh*t, what the f*ck are you thinking?!\NIt's a f*cking bear!
+Dialogue: 1,0:00:32.00,0:00:35.40,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE07C&}ACTIVIST: {\c&HFFFFFF&}Welcome to your new life— ah!
+Dialogue: 1,0:00:35.50,0:00:40.50,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE07C&}ACTIVIST: {\c&HFFFFFF&}No, sister! Ahh! No, sister! No! Ahh!
+Dialogue: 1,0:00:41.80,0:00:49.50,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE07C&}ACTIVIST: {\c&HFFFFFF&}We understand you were driven\Nto act in violence.
+Dialogue: 1,0:00:49.60,0:00:55.00,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H7CE07C&}ACTIVIST: {\c&HFFFFFF&}I harbor nothing but love for you...
+Dialogue: 1,0:01:04.20,0:01:09.60,Npc,,0,0,0,,{\pos(540,1380)\fad(80,80)}{\c&H00A5FF&}NEWS: {\c&HFFFFFF&}"Eco-activist savaged by the bear\Nthey were rescuing"
+Dialogue: 3,0:00:00.00,0:00:03.40,Hook,,0,0,0,,{\pos(540,720)\fad(0,200)\fscx92\fscy92\t(0,120,\fscx100\fscy100)}HE HELPED ACTIVISTS FREE\NA POLAR BEAR IN GTA 6...\N{\c&H00E5FF&}BIG MISTAKE{\c&HFFFFFF&}
+Dialogue: 3,0:01:01.50,0:01:04.10,Hook,,0,0,0,,{\pos(540,900)\fad(150,150)}{\c&H00E5FF&}2 HOURS LATER...

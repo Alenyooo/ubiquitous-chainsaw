@@ -15,3 +15,8 @@ Cover frame: 0:13 (the "GIVE NECKLACE" prompt)
 Caption: 14 hours of GTA 6 progress… held hostage over WAFFLES 💀🧇 🎥 Marlon & Lacy
 Hashtags: #GTA6 #Marlon #Lacy #WaffleHouse #GTA6marathon #streamers #twitchclips #funny #fyp
 Cover frame: 0:31 ("I'll delete your sh*t!" with the controller)
+
+## dima_wallhacks_2026-11-20_Freed_Polar_Bear_Activists.mp4
+Caption: GTA 6 let him free a polar bear with eco-activists… it went exactly how you think 🐻‍❄️💀 (wait for the news report) 🎥 dima_wallhacks
+Hashtags: #GTA6 #GTAVI #GTA6gameplay #polarbear #GTA6secrets #dimawallhacks #gaming #twitchclips #fyp
+Cover frame: 0:27 (the bear lunging out of the truck)
