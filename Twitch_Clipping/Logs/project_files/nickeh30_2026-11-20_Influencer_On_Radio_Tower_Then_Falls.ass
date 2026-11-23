@@ -1,0 +1,129 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1
+Style: Npc,Inter ExtraBold,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,3,4,0,5,90,90,0,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,8,4,5,50,50,0,1
+Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.08,0:00:00.26,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OH{\c&H00FFFFFF&} MY GOD
+Dialogue: 2,0:00:00.26,0:00:00.40,Cap,,0,0,0,,{\pos(540,748)}OH {\c&H0000E5FF&}MY{\c&H00FFFFFF&} GOD
+Dialogue: 2,0:00:00.40,0:00:00.66,Cap,,0,0,0,,{\pos(540,748)}OH MY {\c&H0000E5FF&}GOD{\c&H00FFFFFF&}
+Dialogue: 2,0:00:00.66,0:00:00.88,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OH{\c&H00FFFFFF&} MY GOD
+Dialogue: 2,0:00:00.88,0:00:00.98,Cap,,0,0,0,,{\pos(540,748)}OH {\c&H0000E5FF&}MY{\c&H00FFFFFF&} GOD
+Dialogue: 2,0:00:00.98,0:00:01.47,Cap,,0,0,0,,{\pos(540,748)}OH MY {\c&H0000E5FF&}GOD{\c&H00FFFFFF&}
+Dialogue: 2,0:00:01.76,0:00:02.22,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OH{\c&H00FFFFFF&} NO WAY
+Dialogue: 2,0:00:02.22,0:00:02.30,Cap,,0,0,0,,{\pos(540,748)}OH {\c&H0000E5FF&}NO{\c&H00FFFFFF&} WAY
+Dialogue: 2,0:00:02.30,0:00:02.85,Cap,,0,0,0,,{\pos(540,748)}OH NO {\c&H0000E5FF&}WAY{\c&H00FFFFFF&}
+Dialogue: 2,0:00:03.08,0:00:03.52,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OH{\c&H00FFFFFF&} WIGGLE WIGGLE
+Dialogue: 2,0:00:03.52,0:00:03.76,Cap,,0,0,0,,{\pos(540,748)}OH {\c&H0000E5FF&}WIGGLE{\c&H00FFFFFF&} WIGGLE
+Dialogue: 2,0:00:03.76,0:00:04.24,Cap,,0,0,0,,{\pos(540,748)}OH WIGGLE {\c&H0000E5FF&}WIGGLE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:04.24,0:00:04.74,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WIGGLE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:05.60,0:00:06.04,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OH{\c&H00FFFFFF&} WHAT THE
+Dialogue: 2,0:00:06.04,0:00:06.48,Cap,,0,0,0,,{\pos(540,748)}OH {\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} THE
+Dialogue: 2,0:00:06.48,0:00:07.07,Cap,,0,0,0,,{\pos(540,748)}OH WHAT {\c&H0000E5FF&}THE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:07.66,0:00:08.36,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}BOOM{\c&H00FFFFFF&} SHE'S GONNA
+Dialogue: 2,0:00:08.36,0:00:08.94,Cap,,0,0,0,,{\pos(540,748)}BOOM {\c&H0000E5FF&}SHE'S{\c&H00FFFFFF&} GONNA
+Dialogue: 2,0:00:08.94,0:00:09.02,Cap,,0,0,0,,{\pos(540,748)}BOOM SHE'S {\c&H0000E5FF&}GONNA{\c&H00FFFFFF&}
+Dialogue: 2,0:00:09.02,0:00:09.12,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}DO{\c&H00FFFFFF&} IT I
+Dialogue: 2,0:00:09.12,0:00:09.32,Cap,,0,0,0,,{\pos(540,748)}DO {\c&H0000E5FF&}IT{\c&H00FFFFFF&} I
+Dialogue: 2,0:00:09.32,0:00:09.90,Cap,,0,0,0,,{\pos(540,748)}DO IT {\c&H0000E5FF&}I{\c&H00FFFFFF&}
+Dialogue: 2,0:00:09.90,0:00:10.40,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}KNEW{\c&H00FFFFFF&}
+Dialogue: 2,0:00:15.46,0:00:16.12,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OH{\c&H00FFFFFF&} SHE WANTS
+Dialogue: 2,0:00:16.12,0:00:17.30,Cap,,0,0,0,,{\pos(540,748)}OH {\c&H0000E5FF&}SHE{\c&H00FFFFFF&} WANTS
+Dialogue: 2,0:00:17.30,0:00:17.82,Cap,,0,0,0,,{\pos(540,748)}OH SHE {\c&H0000E5FF&}WANTS{\c&H00FFFFFF&}
+Dialogue: 2,0:00:17.82,0:00:17.96,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}A{\c&H00FFFFFF&} PICTURE SELFIE
+Dialogue: 2,0:00:17.96,0:00:18.44,Cap,,0,0,0,,{\pos(540,748)}A {\c&H0000E5FF&}PICTURE{\c&H00FFFFFF&} SELFIE
+Dialogue: 2,0:00:18.44,0:00:20.25,Cap,,0,0,0,,{\pos(540,748)}A PICTURE {\c&H0000E5FF&}SELFIE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:21.69,0:00:22.73,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}I{\c&H00FFFFFF&} DIDN'T KNOW
+Dialogue: 2,0:00:22.73,0:00:24.15,Cap,,0,0,0,,{\pos(540,748)}I {\c&H0000E5FF&}DIDN'T{\c&H00FFFFFF&} KNOW
+Dialogue: 2,0:00:24.15,0:00:24.27,Cap,,0,0,0,,{\pos(540,748)}I DIDN'T {\c&H0000E5FF&}KNOW{\c&H00FFFFFF&}
+Dialogue: 2,0:00:24.27,0:00:24.57,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THAT{\c&H00FFFFFF&} BRO OH
+Dialogue: 2,0:00:24.57,0:00:24.87,Cap,,0,0,0,,{\pos(540,748)}THAT {\c&H0000E5FF&}BRO{\c&H00FFFFFF&} OH
+Dialogue: 2,0:00:24.87,0:00:25.71,Cap,,0,0,0,,{\pos(540,748)}THAT BRO {\c&H0000E5FF&}OH{\c&H00FFFFFF&}
+Dialogue: 2,0:00:25.71,0:00:25.83,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}MY{\c&H00FFFFFF&} GOD I
+Dialogue: 2,0:00:25.83,0:00:25.95,Cap,,0,0,0,,{\pos(540,748)}MY {\c&H0000E5FF&}GOD{\c&H00FFFFFF&} I
+Dialogue: 2,0:00:25.95,0:00:26.05,Cap,,0,0,0,,{\pos(540,748)}MY GOD {\c&H0000E5FF&}I{\c&H00FFFFFF&}
+Dialogue: 2,0:00:26.05,0:00:26.19,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}CAN'T{\c&H00FFFFFF&} EVEN I
+Dialogue: 2,0:00:26.19,0:00:26.35,Cap,,0,0,0,,{\pos(540,748)}CAN'T {\c&H0000E5FF&}EVEN{\c&H00FFFFFF&} I
+Dialogue: 2,0:00:26.35,0:00:26.75,Cap,,0,0,0,,{\pos(540,748)}CAN'T EVEN {\c&H0000E5FF&}I{\c&H00FFFFFF&}
+Dialogue: 2,0:00:26.75,0:00:26.97,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}CAN'T{\c&H00FFFFFF&} EVEN
+Dialogue: 2,0:00:26.97,0:00:27.52,Cap,,0,0,0,,{\pos(540,748)}CAN'T {\c&H0000E5FF&}EVEN{\c&H00FFFFFF&}
+Dialogue: 2,0:00:38.74,0:00:39.18,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THEY{\c&H00FFFFFF&} DEFINITELY
+Dialogue: 2,0:00:39.18,0:00:39.46,Cap,,0,0,0,,{\pos(540,748)}THEY {\c&H0000E5FF&}DEFINITELY{\c&H00FFFFFF&}
+Dialogue: 2,0:00:39.46,0:00:39.66,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}MADE{\c&H00FFFFFF&} THAT ON
+Dialogue: 2,0:00:39.66,0:00:39.84,Cap,,0,0,0,,{\pos(540,748)}MADE {\c&H0000E5FF&}THAT{\c&H00FFFFFF&} ON
+Dialogue: 2,0:00:39.84,0:00:39.94,Cap,,0,0,0,,{\pos(540,748)}MADE THAT {\c&H0000E5FF&}ON{\c&H00FFFFFF&}
+Dialogue: 2,0:00:39.94,0:00:40.06,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}IG{\c&H00FFFFFF&} DIDN'T THEY
+Dialogue: 2,0:00:40.06,0:00:40.40,Cap,,0,0,0,,{\pos(540,748)}IG {\c&H0000E5FF&}DIDN'T{\c&H00FFFFFF&} THEY
+Dialogue: 2,0:00:40.40,0:00:40.42,Cap,,0,0,0,,{\pos(540,748)}IG DIDN'T {\c&H0000E5FF&}THEY{\c&H00FFFFFF&}
+Dialogue: 2,0:00:40.42,0:00:40.86,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THE{\c&H00FFFFFF&} BIGGEST LOSER
+Dialogue: 2,0:00:40.86,0:00:41.22,Cap,,0,0,0,,{\pos(540,748)}THE {\c&H0000E5FF&}BIGGEST{\c&H00FFFFFF&} LOSER
+Dialogue: 2,0:00:41.22,0:00:41.76,Cap,,0,0,0,,{\pos(540,748)}THE BIGGEST {\c&H0000E5FF&}LOSER{\c&H00FFFFFF&}
+Dialogue: 2,0:00:41.76,0:00:42.14,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}UP{\c&H00FFFFFF&} HERE OH
+Dialogue: 2,0:00:42.14,0:00:42.42,Cap,,0,0,0,,{\pos(540,748)}UP {\c&H0000E5FF&}HERE{\c&H00FFFFFF&} OH
+Dialogue: 2,0:00:42.42,0:00:42.88,Cap,,0,0,0,,{\pos(540,748)}UP HERE {\c&H0000E5FF&}OH{\c&H00FFFFFF&}
+Dialogue: 2,0:00:42.88,0:00:43.02,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}MY{\c&H00FFFFFF&} GOSH SOMEONE
+Dialogue: 2,0:00:43.02,0:00:43.22,Cap,,0,0,0,,{\pos(540,748)}MY {\c&H0000E5FF&}GOSH{\c&H00FFFFFF&} SOMEONE
+Dialogue: 2,0:00:43.22,0:00:43.60,Cap,,0,0,0,,{\pos(540,748)}MY GOSH {\c&H0000E5FF&}SOMEONE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:43.60,0:00:43.70,Cap,,0,0,0,,{\pos(540,748)}GONNA {\c&H0000E5FF&}I'M{\c&H00FFFFFF&} ACTUALLY
+Dialogue: 2,0:00:43.70,0:00:43.90,Cap,,0,0,0,,{\pos(540,748)}GONNA I'M {\c&H0000E5FF&}ACTUALLY{\c&H00FFFFFF&}
+Dialogue: 2,0:00:43.90,0:00:44.24,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}SEARCH{\c&H00FFFFFF&} UP THAT
+Dialogue: 2,0:00:44.24,0:00:44.42,Cap,,0,0,0,,{\pos(540,748)}SEARCH {\c&H0000E5FF&}UP{\c&H00FFFFFF&} THAT
+Dialogue: 2,0:00:44.42,0:00:44.54,Cap,,0,0,0,,{\pos(540,748)}SEARCH UP {\c&H0000E5FF&}THAT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:44.54,0:00:45.21,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ACCOUNT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:46.90,0:00:47.38,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OKAY{\c&H00FFFFFF&} THAT'S IT
+Dialogue: 2,0:00:47.38,0:00:47.60,Cap,,0,0,0,,{\pos(540,748)}OKAY {\c&H0000E5FF&}THAT'S{\c&H00FFFFFF&} IT
+Dialogue: 2,0:00:47.60,0:00:48.07,Cap,,0,0,0,,{\pos(540,748)}OKAY THAT'S {\c&H0000E5FF&}IT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:54.22,0:00:54.66,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OH{\c&H00FFFFFF&} MY GOD
+Dialogue: 2,0:00:54.66,0:00:54.94,Cap,,0,0,0,,{\pos(540,748)}OH {\c&H0000E5FF&}MY{\c&H00FFFFFF&} GOD
+Dialogue: 2,0:00:54.94,0:00:55.46,Cap,,0,0,0,,{\pos(540,748)}OH MY {\c&H0000E5FF&}GOD{\c&H00FFFFFF&}
+Dialogue: 2,0:00:55.46,0:00:56.33,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WAIT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:59.96,0:01:00.40,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}CAN{\c&H00FFFFFF&} I GET
+Dialogue: 2,0:01:00.40,0:01:00.52,Cap,,0,0,0,,{\pos(540,748)}CAN {\c&H0000E5FF&}I{\c&H00FFFFFF&} GET
+Dialogue: 2,0:01:00.52,0:01:00.66,Cap,,0,0,0,,{\pos(540,748)}CAN I {\c&H0000E5FF&}GET{\c&H00FFFFFF&}
+Dialogue: 2,0:01:00.66,0:01:00.76,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HER{\c&H00FFFFFF&} TO LIKE
+Dialogue: 2,0:01:00.76,0:01:00.86,Cap,,0,0,0,,{\pos(540,748)}HER {\c&H0000E5FF&}TO{\c&H00FFFFFF&} LIKE
+Dialogue: 2,0:01:00.86,0:01:01.02,Cap,,0,0,0,,{\pos(540,748)}HER TO {\c&H0000E5FF&}LIKE{\c&H00FFFFFF&}
+Dialogue: 2,0:01:01.02,0:01:01.61,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}FALL{\c&H00FFFFFF&}
+Dialogue: 2,0:01:02.24,0:01:02.68,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}I{\c&H00FFFFFF&} CAN'T CLIMB
+Dialogue: 2,0:01:02.68,0:01:02.86,Cap,,0,0,0,,{\pos(540,748)}I {\c&H0000E5FF&}CAN'T{\c&H00FFFFFF&} CLIMB
+Dialogue: 2,0:01:02.86,0:01:03.02,Cap,,0,0,0,,{\pos(540,748)}I CAN'T {\c&H0000E5FF&}CLIMB{\c&H00FFFFFF&}
+Dialogue: 2,0:01:03.02,0:01:03.18,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}UP{\c&H00FFFFFF&} THERE OH
+Dialogue: 2,0:01:03.18,0:01:03.48,Cap,,0,0,0,,{\pos(540,748)}UP {\c&H0000E5FF&}THERE{\c&H00FFFFFF&} OH
+Dialogue: 2,0:01:03.48,0:01:03.66,Cap,,0,0,0,,{\pos(540,748)}UP THERE {\c&H0000E5FF&}OH{\c&H00FFFFFF&}
+Dialogue: 2,0:01:03.66,0:01:03.80,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}MY{\c&H00FFFFFF&} GOD OH
+Dialogue: 2,0:01:03.80,0:01:04.06,Cap,,0,0,0,,{\pos(540,748)}MY {\c&H0000E5FF&}GOD{\c&H00FFFFFF&} OH
+Dialogue: 2,0:01:04.06,0:01:04.28,Cap,,0,0,0,,{\pos(540,748)}MY GOD {\c&H0000E5FF&}OH{\c&H00FFFFFF&}
+Dialogue: 2,0:01:04.28,0:01:04.38,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}MY{\c&H00FFFFFF&} GOD
+Dialogue: 2,0:01:04.38,0:01:04.87,Cap,,0,0,0,,{\pos(540,748)}MY {\c&H0000E5FF&}GOD{\c&H00FFFFFF&}
+Dialogue: 2,0:01:05.16,0:01:05.62,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OH{\c&H00FFFFFF&} NO WAY
+Dialogue: 2,0:01:05.62,0:01:05.70,Cap,,0,0,0,,{\pos(540,748)}OH {\c&H0000E5FF&}NO{\c&H00FFFFFF&} WAY
+Dialogue: 2,0:01:05.70,0:01:06.25,Cap,,0,0,0,,{\pos(540,748)}OH NO {\c&H0000E5FF&}WAY{\c&H00FFFFFF&}
+Dialogue: 2,0:01:06.48,0:01:06.92,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OH{\c&H00FFFFFF&} WIGGLE WIGGLE
+Dialogue: 2,0:01:06.92,0:01:07.16,Cap,,0,0,0,,{\pos(540,748)}OH {\c&H0000E5FF&}WIGGLE{\c&H00FFFFFF&} WIGGLE
+Dialogue: 2,0:01:07.16,0:01:07.64,Cap,,0,0,0,,{\pos(540,748)}OH WIGGLE {\c&H0000E5FF&}WIGGLE{\c&H00FFFFFF&}
+Dialogue: 2,0:01:07.64,0:01:08.14,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WIGGLE{\c&H00FFFFFF&}
+Dialogue: 2,0:01:09.00,0:01:09.44,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OH{\c&H00FFFFFF&} WHAT THE
+Dialogue: 2,0:01:09.44,0:01:09.88,Cap,,0,0,0,,{\pos(540,748)}OH {\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} THE
+Dialogue: 2,0:01:09.88,0:01:10.47,Cap,,0,0,0,,{\pos(540,748)}OH WHAT {\c&H0000E5FF&}THE{\c&H00FFFFFF&}
+Dialogue: 2,0:01:12.30,0:01:12.74,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WELL{\c&H00FFFFFF&} THAT WAS
+Dialogue: 2,0:01:12.74,0:01:13.18,Cap,,0,0,0,,{\pos(540,748)}WELL {\c&H0000E5FF&}THAT{\c&H00FFFFFF&} WAS
+Dialogue: 2,0:01:13.18,0:01:13.40,Cap,,0,0,0,,{\pos(540,748)}WELL THAT {\c&H0000E5FF&}WAS{\c&H00FFFFFF&}
+Dialogue: 2,0:01:13.40,0:01:13.56,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}KIND{\c&H00FFFFFF&} OF SAD
+Dialogue: 2,0:01:13.56,0:01:13.70,Cap,,0,0,0,,{\pos(540,748)}KIND {\c&H0000E5FF&}OF{\c&H00FFFFFF&} SAD
+Dialogue: 2,0:01:13.70,0:01:14.23,Cap,,0,0,0,,{\pos(540,748)}KIND OF {\c&H0000E5FF&}SAD{\c&H00FFFFFF&}
+Dialogue: 2,0:01:14.66,0:01:15.10,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}I{\c&H00FFFFFF&} THOUGHT WE
+Dialogue: 2,0:01:15.10,0:01:15.26,Cap,,0,0,0,,{\pos(540,748)}I {\c&H0000E5FF&}THOUGHT{\c&H00FFFFFF&} WE
+Dialogue: 2,0:01:15.26,0:01:15.38,Cap,,0,0,0,,{\pos(540,748)}I THOUGHT {\c&H0000E5FF&}WE{\c&H00FFFFFF&}
+Dialogue: 2,0:01:15.38,0:01:15.46,Cap,,0,0,0,,{\pos(540,748)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}COULD{\c&H00FFFFFF&} CLIMB UP
+Dialogue: 2,0:01:15.46,0:01:15.70,Cap,,0,0,0,,{\pos(540,748)}COULD {\c&H0000E5FF&}CLIMB{\c&H00FFFFFF&} UP
+Dialogue: 2,0:01:15.70,0:01:16.31,Cap,,0,0,0,,{\pos(540,748)}COULD CLIMB {\c&H0000E5FF&}UP{\c&H00FFFFFF&}
