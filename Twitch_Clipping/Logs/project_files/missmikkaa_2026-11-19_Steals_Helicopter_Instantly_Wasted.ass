@@ -1,0 +1,54 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1
+Style: Npc,Inter ExtraBold,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,3,4,0,5,90,90,0,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,8,4,5,50,50,0,1
+Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:00.08,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHO{\c&H00FFFFFF&} WAS GRABBING
+Dialogue: 2,0:00:00.08,0:00:01.04,Cap,,0,0,0,,{\pos(540,739)}WHO {\c&H0000E5FF&}WAS{\c&H00FFFFFF&} GRABBING
+Dialogue: 2,0:00:01.04,0:00:01.30,Cap,,0,0,0,,{\pos(540,739)}WHO WAS {\c&H0000E5FF&}GRABBING{\c&H00FFFFFF&}
+Dialogue: 2,0:00:01.30,0:00:01.62,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}IT{\c&H00FFFFFF&} THIS
+Dialogue: 2,0:00:01.62,0:00:02.79,Cap,,0,0,0,,{\pos(540,739)}IT {\c&H0000E5FF&}THIS{\c&H00FFFFFF&}
+Dialogue: 2,0:00:07.85,0:00:08.35,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HERE{\c&H00FFFFFF&} WE GO
+Dialogue: 2,0:00:08.35,0:00:08.47,Cap,,0,0,0,,{\pos(540,739)}HERE {\c&H0000E5FF&}WE{\c&H00FFFFFF&} GO
+Dialogue: 2,0:00:08.47,0:00:08.61,Cap,,0,0,0,,{\pos(540,739)}HERE WE {\c&H0000E5FF&}GO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:08.61,0:00:08.89,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}AGAIN{\c&H00FFFFFF&} CHAT NOW
+Dialogue: 2,0:00:08.89,0:00:09.29,Cap,,0,0,0,,{\pos(540,739)}AGAIN {\c&H0000E5FF&}CHAT{\c&H00FFFFFF&} NOW
+Dialogue: 2,0:00:09.29,0:00:10.78,Cap,,0,0,0,,{\pos(540,739)}AGAIN CHAT {\c&H0000E5FF&}NOW{\c&H00FFFFFF&}
+Dialogue: 2,0:00:11.90,0:00:12.06,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}I'M{\c&H00FFFFFF&} NOT GONNA
+Dialogue: 2,0:00:12.06,0:00:12.12,Cap,,0,0,0,,{\pos(540,739)}I'M {\c&H0000E5FF&}NOT{\c&H00FFFFFF&} GONNA
+Dialogue: 2,0:00:12.12,0:00:12.22,Cap,,0,0,0,,{\pos(540,739)}I'M NOT {\c&H0000E5FF&}GONNA{\c&H00FFFFFF&}
+Dialogue: 2,0:00:12.22,0:00:12.40,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}STOP{\c&H00FFFFFF&} RUNNING I'M
+Dialogue: 2,0:00:12.40,0:00:12.72,Cap,,0,0,0,,{\pos(540,739)}STOP {\c&H0000E5FF&}RUNNING{\c&H00FFFFFF&} I'M
+Dialogue: 2,0:00:12.72,0:00:13.18,Cap,,0,0,0,,{\pos(540,739)}STOP RUNNING {\c&H0000E5FF&}I'M{\c&H00FFFFFF&}
+Dialogue: 2,0:00:13.18,0:00:13.20,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}GONNA{\c&H00FFFFFF&} TAKE THIS
+Dialogue: 2,0:00:13.20,0:00:13.40,Cap,,0,0,0,,{\pos(540,739)}GONNA {\c&H0000E5FF&}TAKE{\c&H00FFFFFF&} THIS
+Dialogue: 2,0:00:13.40,0:00:13.54,Cap,,0,0,0,,{\pos(540,739)}GONNA TAKE {\c&H0000E5FF&}THIS{\c&H00FFFFFF&}
+Dialogue: 2,0:00:13.54,0:00:13.76,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HELICOPTER{\c&H00FFFFFF&} NO NO
+Dialogue: 2,0:00:13.76,0:00:14.42,Cap,,0,0,0,,{\pos(540,739)}HELICOPTER {\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO
+Dialogue: 2,0:00:14.42,0:00:15.25,Cap,,0,0,0,,{\pos(540,739)}HELICOPTER NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:18.26,0:00:18.44,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO NO
+Dialogue: 2,0:00:18.44,0:00:18.64,Cap,,0,0,0,,{\pos(540,739)}NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO
+Dialogue: 2,0:00:18.64,0:00:18.86,Cap,,0,0,0,,{\pos(540,739)}NO NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:18.86,0:00:19.06,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO NO
+Dialogue: 2,0:00:19.06,0:00:19.18,Cap,,0,0,0,,{\pos(540,739)}NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO
+Dialogue: 2,0:00:19.18,0:00:19.24,Cap,,0,0,0,,{\pos(540,739)}NO NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:19.24,0:00:19.36,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}I{\c&H00FFFFFF&} DON'T THINK
+Dialogue: 2,0:00:19.36,0:00:19.48,Cap,,0,0,0,,{\pos(540,739)}I {\c&H0000E5FF&}DON'T{\c&H00FFFFFF&} THINK
+Dialogue: 2,0:00:19.48,0:00:19.62,Cap,,0,0,0,,{\pos(540,739)}I DON'T {\c&H0000E5FF&}THINK{\c&H00FFFFFF&}
+Dialogue: 2,0:00:19.62,0:00:19.78,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}SO{\c&H00FFFFFF&} WHO WAS
+Dialogue: 2,0:00:19.78,0:00:20.58,Cap,,0,0,0,,{\pos(540,739)}SO {\c&H0000E5FF&}WHO{\c&H00FFFFFF&} WAS
+Dialogue: 2,0:00:20.58,0:00:21.54,Cap,,0,0,0,,{\pos(540,739)}SO WHO {\c&H0000E5FF&}WAS{\c&H00FFFFFF&}
+Dialogue: 2,0:00:21.54,0:00:21.80,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}GRABBING{\c&H00FFFFFF&} IT THIS
+Dialogue: 2,0:00:21.80,0:00:22.12,Cap,,0,0,0,,{\pos(540,739)}GRABBING {\c&H0000E5FF&}IT{\c&H00FFFFFF&} THIS
+Dialogue: 2,0:00:22.12,0:00:23.29,Cap,,0,0,0,,{\pos(540,739)}GRABBING IT {\c&H0000E5FF&}THIS{\c&H00FFFFFF&}
