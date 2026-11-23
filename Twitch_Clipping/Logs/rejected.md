@@ -18,3 +18,8 @@
 - ohnepixel "Bro want the ban so bad" (61k), "for yall freaks" (25k), "Father of the Year" (18k): strip-club nudity on screen throughout; would be removed on TikTok.
 - nickeh30 clip 817260828 (36k): sexual scene. 3449349827 "freaky ahh nick": not family-friendly scene. 3295381929: brothel corridor.
 - vegetta777 "perros cogiendo": dogs mating.
+
+## Live watch 2026-11-23
+- ohnepixel "ohne is a dick" / "LEEKED": full-frontal NPC nudity. "Lucia tripped", "negev incident 2.0": weak.
+- nickeh30 "Nick Eh 30 Classic", "was it worth it?", "nick is going insane bro": low reaction (7-9 dB), innuendo; Easter-egg segment is him watching another creator's YouTube video (not ours to repost).
+- missmikkaa "Lucia machona": scripted robbery cutscene, game dialogue only. Club Malibu Vice City reference: too dark / weak visually.
