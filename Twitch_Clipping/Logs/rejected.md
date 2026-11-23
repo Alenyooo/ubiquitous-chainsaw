@@ -13,3 +13,8 @@
 | lacy | 9:10 "my PS5 turned off… I will end this marathon" | v2935059680 | Group dinner then black "NO SIGNAL" screen — nothing to show |
 | lacy | 14:56 shower | v2935059680 | Sexual content |
 | marlon | 7:32 wrestling / "choking me out" | v2935183263 | Unclear on screen |
+
+## Round 5 (ohnepixel, vegetta777, nickeh30), 2026-11-23
+- ohnepixel "Bro want the ban so bad" (61k), "for yall freaks" (25k), "Father of the Year" (18k): strip-club nudity on screen throughout; would be removed on TikTok.
+- nickeh30 clip 817260828 (36k): sexual scene. 3449349827 "freaky ahh nick": not family-friendly scene. 3295381929: brothel corridor.
+- vegetta777 "perros cogiendo": dogs mating.

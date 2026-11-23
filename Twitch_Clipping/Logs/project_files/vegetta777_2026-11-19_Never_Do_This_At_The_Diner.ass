@@ -1,0 +1,116 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1
+Style: Npc,Inter ExtraBold,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,3,4,0,5,90,90,0,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,8,4,5,50,50,0,1
+Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.77,0:00:01.13,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}PERDÓN{\c&H00FFFFFF&} PERDÓN NO
+Dialogue: 2,0:00:01.13,0:00:01.37,Cap,,0,0,0,,{\pos(540,536)}PERDÓN {\c&H0000E5FF&}PERDÓN{\c&H00FFFFFF&} NO
+Dialogue: 2,0:00:01.37,0:00:02.05,Cap,,0,0,0,,{\pos(540,536)}PERDÓN PERDÓN {\c&H0000E5FF&}NO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:02.05,0:00:02.17,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} HE PAGADO
+Dialogue: 2,0:00:02.17,0:00:02.29,Cap,,0,0,0,,{\pos(540,536)}NO {\c&H0000E5FF&}HE{\c&H00FFFFFF&} PAGADO
+Dialogue: 2,0:00:02.29,0:00:02.75,Cap,,0,0,0,,{\pos(540,536)}NO HE {\c&H0000E5FF&}PAGADO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:02.75,0:00:02.79,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HE{\c&H00FFFFFF&} PAGADO
+Dialogue: 2,0:00:02.79,0:00:03.60,Cap,,0,0,0,,{\pos(540,536)}HE {\c&H0000E5FF&}PAGADO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:06.25,0:00:06.96,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}EH{\c&H00FFFFFF&}
+Dialogue: 2,0:00:07.23,0:00:07.49,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}EH{\c&H00FFFFFF&} EH EH
+Dialogue: 2,0:00:07.49,0:00:07.99,Cap,,0,0,0,,{\pos(540,536)}EH {\c&H0000E5FF&}EH{\c&H00FFFFFF&} EH
+Dialogue: 2,0:00:07.99,0:00:08.05,Cap,,0,0,0,,{\pos(540,536)}EH EH {\c&H0000E5FF&}EH{\c&H00FFFFFF&}
+Dialogue: 2,0:00:08.05,0:00:08.27,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}EH{\c&H00FFFFFF&} HABÉIS VISTO
+Dialogue: 2,0:00:08.27,0:00:08.85,Cap,,0,0,0,,{\pos(540,536)}EH {\c&H0000E5FF&}HABÉIS{\c&H00FFFFFF&} VISTO
+Dialogue: 2,0:00:08.85,0:00:09.09,Cap,,0,0,0,,{\pos(540,536)}EH HABÉIS {\c&H0000E5FF&}VISTO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:09.09,0:00:09.23,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}LA{\c&H00FFFFFF&} CARA DE
+Dialogue: 2,0:00:09.23,0:00:09.49,Cap,,0,0,0,,{\pos(540,536)}LA {\c&H0000E5FF&}CARA{\c&H00FFFFFF&} DE
+Dialogue: 2,0:00:09.49,0:00:09.63,Cap,,0,0,0,,{\pos(540,536)}LA CARA {\c&H0000E5FF&}DE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:09.63,0:00:10.05,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}CABREADA{\c&H00FFFFFF&} QUE TIENE
+Dialogue: 2,0:00:10.05,0:00:10.25,Cap,,0,0,0,,{\pos(540,536)}CABREADA {\c&H0000E5FF&}QUE{\c&H00FFFFFF&} TIENE
+Dialogue: 2,0:00:10.25,0:00:10.75,Cap,,0,0,0,,{\pos(540,536)}CABREADA QUE {\c&H0000E5FF&}TIENE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:10.75,0:00:10.93,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}LE{\c&H00FFFFFF&} VOY A
+Dialogue: 2,0:00:10.93,0:00:11.05,Cap,,0,0,0,,{\pos(540,536)}LE {\c&H0000E5FF&}VOY{\c&H00FFFFFF&} A
+Dialogue: 2,0:00:11.05,0:00:11.11,Cap,,0,0,0,,{\pos(540,536)}LE VOY {\c&H0000E5FF&}A{\c&H00FFFFFF&}
+Dialogue: 2,0:00:11.11,0:00:11.31,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}DECIR{\c&H00FFFFFF&} EH RELÁJATE
+Dialogue: 2,0:00:11.31,0:00:11.47,Cap,,0,0,0,,{\pos(540,536)}DECIR {\c&H0000E5FF&}EH{\c&H00FFFFFF&} RELÁJATE
+Dialogue: 2,0:00:11.47,0:00:12.40,Cap,,0,0,0,,{\pos(540,536)}DECIR EH {\c&H0000E5FF&}RELÁJATE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:15.40,0:00:16.11,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ESO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:20.50,0:00:20.86,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}EH{\c&H00FFFFFF&} TRANQUILA
+Dialogue: 2,0:00:20.86,0:00:21.57,Cap,,0,0,0,,{\pos(540,536)}EH {\c&H0000E5FF&}TRANQUILA{\c&H00FFFFFF&}
+Dialogue: 2,0:00:22.82,0:00:23.18,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}TRANQUILA{\c&H00FFFFFF&} NO TE
+Dialogue: 2,0:00:23.18,0:00:24.46,Cap,,0,0,0,,{\pos(540,536)}TRANQUILA {\c&H0000E5FF&}NO{\c&H00FFFFFF&} TE
+Dialogue: 2,0:00:24.46,0:00:24.60,Cap,,0,0,0,,{\pos(540,536)}TRANQUILA NO {\c&H0000E5FF&}TE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:24.60,0:00:25.43,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}CONOZCO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:27.40,0:00:27.52,Cap,,0,0,0,,{\pos(540,536)}ME {\c&H0000E5FF&}NO{\c&H00FFFFFF&} LLAMES
+Dialogue: 2,0:00:27.52,0:00:27.80,Cap,,0,0,0,,{\pos(540,536)}ME NO {\c&H0000E5FF&}LLAMES{\c&H00FFFFFF&}
+Dialogue: 2,0:00:27.80,0:00:27.98,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ESTOY{\c&H00FFFFFF&} COMIÉNDOME
+Dialogue: 2,0:00:27.98,0:00:28.40,Cap,,0,0,0,,{\pos(540,536)}ESTOY {\c&H0000E5FF&}COMIÉNDOME{\c&H00FFFFFF&}
+Dialogue: 2,0:00:28.40,0:00:29.07,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ESTO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:30.80,0:00:30.98,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OK{\c&H00FFFFFF&} VALE VALE
+Dialogue: 2,0:00:30.98,0:00:32.40,Cap,,0,0,0,,{\pos(540,536)}OK {\c&H0000E5FF&}VALE{\c&H00FFFFFF&} VALE
+Dialogue: 2,0:00:32.40,0:00:33.54,Cap,,0,0,0,,{\pos(540,536)}OK VALE {\c&H0000E5FF&}VALE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:33.54,0:00:34.21,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}VALE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:40.89,0:00:41.31,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}VUELVO{\c&H00FFFFFF&} LO SIENTO
+Dialogue: 2,0:00:41.31,0:00:42.57,Cap,,0,0,0,,{\pos(540,536)}VUELVO {\c&H0000E5FF&}LO{\c&H00FFFFFF&} SIENTO
+Dialogue: 2,0:00:42.57,0:00:43.67,Cap,,0,0,0,,{\pos(540,536)}VUELVO LO {\c&H0000E5FF&}SIENTO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:43.67,0:00:43.75,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}LO{\c&H00FFFFFF&} SIENTO LO
+Dialogue: 2,0:00:43.75,0:00:44.15,Cap,,0,0,0,,{\pos(540,536)}LO {\c&H0000E5FF&}SIENTO{\c&H00FFFFFF&} LO
+Dialogue: 2,0:00:44.15,0:00:44.51,Cap,,0,0,0,,{\pos(540,536)}LO SIENTO {\c&H0000E5FF&}LO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:44.51,0:00:44.83,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}SIENTO{\c&H00FFFFFF&} LO SIENTO
+Dialogue: 2,0:00:44.83,0:00:45.37,Cap,,0,0,0,,{\pos(540,536)}SIENTO {\c&H0000E5FF&}LO{\c&H00FFFFFF&} SIENTO
+Dialogue: 2,0:00:45.37,0:00:45.63,Cap,,0,0,0,,{\pos(540,536)}SIENTO LO {\c&H0000E5FF&}SIENTO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:45.63,0:00:46.03,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}PENSABA{\c&H00FFFFFF&} QUE IBA
+Dialogue: 2,0:00:46.03,0:00:46.15,Cap,,0,0,0,,{\pos(540,536)}PENSABA {\c&H0000E5FF&}QUE{\c&H00FFFFFF&} IBA
+Dialogue: 2,0:00:46.15,0:00:46.66,Cap,,0,0,0,,{\pos(540,536)}PENSABA QUE {\c&H0000E5FF&}IBA{\c&H00FFFFFF&}
+Dialogue: 2,0:00:49.33,0:00:49.97,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}PENSABA{\c&H00FFFFFF&} NO NO
+Dialogue: 2,0:00:49.97,0:00:50.61,Cap,,0,0,0,,{\pos(540,536)}PENSABA {\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO
+Dialogue: 2,0:00:50.61,0:00:51.19,Cap,,0,0,0,,{\pos(540,536)}PENSABA NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:51.19,0:00:51.55,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HAGÁIS{\c&H00FFFFFF&} JAMÁS ESTO
+Dialogue: 2,0:00:51.55,0:00:51.91,Cap,,0,0,0,,{\pos(540,536)}HAGÁIS {\c&H0000E5FF&}JAMÁS{\c&H00FFFFFF&} ESTO
+Dialogue: 2,0:00:51.91,0:00:52.31,Cap,,0,0,0,,{\pos(540,536)}HAGÁIS JAMÁS {\c&H0000E5FF&}ESTO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:52.31,0:00:52.47,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} HAGÁIS JAMÁS
+Dialogue: 2,0:00:52.47,0:00:52.83,Cap,,0,0,0,,{\pos(540,536)}NO {\c&H0000E5FF&}HAGÁIS{\c&H00FFFFFF&} JAMÁS
+Dialogue: 2,0:00:52.83,0:00:53.19,Cap,,0,0,0,,{\pos(540,536)}NO HAGÁIS {\c&H0000E5FF&}JAMÁS{\c&H00FFFFFF&}
+Dialogue: 2,0:00:53.19,0:00:53.55,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} HAGÁIS NO
+Dialogue: 2,0:00:53.55,0:00:53.99,Cap,,0,0,0,,{\pos(540,536)}NO {\c&H0000E5FF&}HAGÁIS{\c&H00FFFFFF&} NO
+Dialogue: 2,0:00:53.99,0:00:54.49,Cap,,0,0,0,,{\pos(540,536)}NO HAGÁIS {\c&H0000E5FF&}NO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:54.49,0:00:55.17,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HAGÁIS{\c&H00FFFFFF&} ESTO JAMÁS
+Dialogue: 2,0:00:55.17,0:00:55.41,Cap,,0,0,0,,{\pos(540,536)}HAGÁIS {\c&H0000E5FF&}ESTO{\c&H00FFFFFF&} JAMÁS
+Dialogue: 2,0:00:55.41,0:00:55.93,Cap,,0,0,0,,{\pos(540,536)}HAGÁIS ESTO {\c&H0000E5FF&}JAMÁS{\c&H00FFFFFF&}
+Dialogue: 2,0:00:55.93,0:00:56.87,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} BUENO BUENO
+Dialogue: 2,0:00:56.87,0:00:57.83,Cap,,0,0,0,,{\pos(540,536)}NO {\c&H0000E5FF&}BUENO{\c&H00FFFFFF&} BUENO
+Dialogue: 2,0:00:57.83,0:00:58.64,Cap,,0,0,0,,{\pos(540,536)}NO BUENO {\c&H0000E5FF&}BUENO{\c&H00FFFFFF&}
+Dialogue: 2,0:01:00.25,0:01:01.08,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}CHICOS{\c&H00FFFFFF&}
+Dialogue: 2,0:01:01.79,0:01:02.27,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HABÉIS{\c&H00FFFFFF&} VISTO QUE
+Dialogue: 2,0:01:02.27,0:01:02.51,Cap,,0,0,0,,{\pos(540,536)}HABÉIS {\c&H0000E5FF&}VISTO{\c&H00FFFFFF&} QUE
+Dialogue: 2,0:01:02.51,0:01:02.67,Cap,,0,0,0,,{\pos(540,536)}HABÉIS VISTO {\c&H0000E5FF&}QUE{\c&H00FFFFFF&}
+Dialogue: 2,0:01:02.67,0:01:02.75,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HE{\c&H00FFFFFF&} SIDO AMABLE
+Dialogue: 2,0:01:02.75,0:01:02.93,Cap,,0,0,0,,{\pos(540,536)}HE {\c&H0000E5FF&}SIDO{\c&H00FFFFFF&} AMABLE
+Dialogue: 2,0:01:02.93,0:01:03.64,Cap,,0,0,0,,{\pos(540,536)}HE SIDO {\c&H0000E5FF&}AMABLE{\c&H00FFFFFF&}
+Dialogue: 2,0:01:04.15,0:01:04.98,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ME{\c&H00FFFFFF&}
+Dialogue: 2,0:01:11.67,0:01:12.15,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}SABE{\c&H00FFFFFF&} FATAL EH
+Dialogue: 2,0:01:12.15,0:01:12.53,Cap,,0,0,0,,{\pos(540,536)}SABE {\c&H0000E5FF&}FATAL{\c&H00FFFFFF&} EH
+Dialogue: 2,0:01:12.53,0:01:12.63,Cap,,0,0,0,,{\pos(540,536)}SABE FATAL {\c&H0000E5FF&}EH{\c&H00FFFFFF&}
+Dialogue: 2,0:01:12.63,0:01:13.21,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ME{\c&H00FFFFFF&} VOY PORQUE
+Dialogue: 2,0:01:13.21,0:01:13.67,Cap,,0,0,0,,{\pos(540,536)}ME {\c&H0000E5FF&}VOY{\c&H00FFFFFF&} PORQUE
+Dialogue: 2,0:01:13.67,0:01:14.32,Cap,,0,0,0,,{\pos(540,536)}ME VOY {\c&H0000E5FF&}PORQUE{\c&H00FFFFFF&}
+Dialogue: 2,0:01:14.71,0:01:15.19,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}CLARO{\c&H00FFFFFF&} ME HA
+Dialogue: 2,0:01:15.19,0:01:15.67,Cap,,0,0,0,,{\pos(540,536)}CLARO {\c&H0000E5FF&}ME{\c&H00FFFFFF&} HA
+Dialogue: 2,0:01:15.67,0:01:15.77,Cap,,0,0,0,,{\pos(540,536)}CLARO ME {\c&H0000E5FF&}HA{\c&H00FFFFFF&}
+Dialogue: 2,0:01:15.77,0:01:15.97,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}DICHO{\c&H00FFFFFF&} QUE ME
+Dialogue: 2,0:01:15.97,0:01:16.15,Cap,,0,0,0,,{\pos(540,536)}DICHO {\c&H0000E5FF&}QUE{\c&H00FFFFFF&} ME
+Dialogue: 2,0:01:16.15,0:01:16.35,Cap,,0,0,0,,{\pos(540,536)}DICHO QUE {\c&H0000E5FF&}ME{\c&H00FFFFFF&}
+Dialogue: 2,0:01:16.35,0:01:16.69,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HA{\c&H00FFFFFF&} HABLADO MUY
+Dialogue: 2,0:01:16.69,0:01:16.91,Cap,,0,0,0,,{\pos(540,536)}HA {\c&H0000E5FF&}HABLADO{\c&H00FFFFFF&} MUY
+Dialogue: 2,0:01:16.91,0:01:17.11,Cap,,0,0,0,,{\pos(540,536)}HA HABLADO {\c&H0000E5FF&}MUY{\c&H00FFFFFF&}
+Dialogue: 2,0:01:17.11,0:01:17.37,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}MAL{\c&H00FFFFFF&} ME HA
+Dialogue: 2,0:01:17.37,0:01:18.17,Cap,,0,0,0,,{\pos(540,536)}MAL {\c&H0000E5FF&}ME{\c&H00FFFFFF&} HA
+Dialogue: 2,0:01:18.17,0:01:18.25,Cap,,0,0,0,,{\pos(540,536)}MAL ME {\c&H0000E5FF&}HA{\c&H00FFFFFF&}
+Dialogue: 2,0:01:18.25,0:01:19.00,Cap,,0,0,0,,{\pos(540,536)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HABLADO{\c&H00FFFFFF&}
