@@ -1,0 +1,106 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1
+Style: Npc,Inter ExtraBold,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,3,4,0,5,90,90,0,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,8,4,5,50,50,0,1
+Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:00.29,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}VICTORIOUS{\c&H00FFFFFF&} IN THIS
+Dialogue: 2,0:00:00.29,0:00:00.91,Cap,,0,0,0,,{\pos(540,739)}VICTORIOUS {\c&H0000E5FF&}IN{\c&H00FFFFFF&} THIS
+Dialogue: 2,0:00:00.91,0:00:01.05,Cap,,0,0,0,,{\pos(540,739)}VICTORIOUS IN {\c&H0000E5FF&}THIS{\c&H00FFFFFF&}
+Dialogue: 2,0:00:01.05,0:00:01.31,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}FIGHT{\c&H00FFFFFF&} IT'S AN
+Dialogue: 2,0:00:01.31,0:00:02.53,Cap,,0,0,0,,{\pos(540,739)}FIGHT {\c&H0000E5FF&}IT'S{\c&H00FFFFFF&} AN
+Dialogue: 2,0:00:02.53,0:00:02.57,Cap,,0,0,0,,{\pos(540,739)}FIGHT IT'S {\c&H0000E5FF&}AN{\c&H00FFFFFF&}
+Dialogue: 2,0:00:02.57,0:00:02.87,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ALLIGATOR{\c&H00FFFFFF&} SHUT UP
+Dialogue: 2,0:00:02.87,0:00:03.29,Cap,,0,0,0,,{\pos(540,739)}ALLIGATOR {\c&H0000E5FF&}SHUT{\c&H00FFFFFF&} UP
+Dialogue: 2,0:00:03.29,0:00:03.92,Cap,,0,0,0,,{\pos(540,739)}ALLIGATOR SHUT {\c&H0000E5FF&}UP{\c&H00FFFFFF&}
+Dialogue: 2,0:00:03.92,0:00:04.44,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} DID I
+Dialogue: 2,0:00:04.44,0:00:04.80,Cap,,0,0,0,,{\pos(540,739)}WHAT {\c&H0000E5FF&}DID{\c&H00FFFFFF&} I
+Dialogue: 2,0:00:04.80,0:00:04.88,Cap,,0,0,0,,{\pos(540,739)}WHAT DID {\c&H0000E5FF&}I{\c&H00FFFFFF&}
+Dialogue: 2,0:00:04.88,0:00:05.00,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}DO{\c&H00FFFFFF&} WHAT DID
+Dialogue: 2,0:00:05.00,0:00:05.24,Cap,,0,0,0,,{\pos(540,739)}DO {\c&H0000E5FF&}WHAT{\c&H00FFFFFF&} DID
+Dialogue: 2,0:00:05.24,0:00:05.34,Cap,,0,0,0,,{\pos(540,739)}DO WHAT {\c&H0000E5FF&}DID{\c&H00FFFFFF&}
+Dialogue: 2,0:00:05.34,0:00:05.44,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}I{\c&H00FFFFFF&} FINISH
+Dialogue: 2,0:00:05.44,0:00:05.76,Cap,,0,0,0,,{\pos(540,739)}I {\c&H0000E5FF&}FINISH{\c&H00FFFFFF&}
+Dialogue: 2,0:00:05.76,0:00:08.18,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}CROCODILES{\c&H00FFFFFF&} I
+Dialogue: 2,0:00:08.18,0:00:08.56,Cap,,0,0,0,,{\pos(540,739)}CROCODILES {\c&H0000E5FF&}I{\c&H00FFFFFF&}
+Dialogue: 2,0:00:08.56,0:00:08.82,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ACTUALLY{\c&H00FFFFFF&} LIKE
+Dialogue: 2,0:00:08.82,0:00:09.10,Cap,,0,0,0,,{\pos(540,739)}ACTUALLY {\c&H0000E5FF&}LIKE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:09.10,0:00:09.56,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}CROCODILES{\c&H00FFFFFF&} THEY'RE
+Dialogue: 2,0:00:09.56,0:00:09.74,Cap,,0,0,0,,{\pos(540,739)}CROCODILES {\c&H0000E5FF&}THEY'RE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:09.74,0:00:09.86,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}REALLY{\c&H00FFFFFF&} COOL
+Dialogue: 2,0:00:09.86,0:00:10.49,Cap,,0,0,0,,{\pos(540,739)}REALLY {\c&H0000E5FF&}COOL{\c&H00FFFFFF&}
+Dialogue: 2,0:00:10.88,0:00:11.40,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THEY'RE{\c&H00FFFFFF&} FIGHTING
+Dialogue: 2,0:00:11.40,0:00:11.74,Cap,,0,0,0,,{\pos(540,739)}THEY'RE {\c&H0000E5FF&}FIGHTING{\c&H00FFFFFF&}
+Dialogue: 2,0:00:11.74,0:00:12.88,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}OH{\c&H00FFFFFF&} GOD IT
+Dialogue: 2,0:00:12.88,0:00:13.18,Cap,,0,0,0,,{\pos(540,739)}OH {\c&H0000E5FF&}GOD{\c&H00FFFFFF&} IT
+Dialogue: 2,0:00:13.18,0:00:13.44,Cap,,0,0,0,,{\pos(540,739)}OH GOD {\c&H0000E5FF&}IT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:13.44,0:00:13.60,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}LOOKS{\c&H00FFFFFF&} SO VIOLENT
+Dialogue: 2,0:00:13.60,0:00:13.70,Cap,,0,0,0,,{\pos(540,739)}LOOKS {\c&H0000E5FF&}SO{\c&H00FFFFFF&} VIOLENT
+Dialogue: 2,0:00:13.70,0:00:14.06,Cap,,0,0,0,,{\pos(540,739)}LOOKS SO {\c&H0000E5FF&}VIOLENT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:14.06,0:00:15.29,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}AND{\c&H00FFFFFF&}
+Dialogue: 2,0:00:18.29,0:00:18.53,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HERE{\c&H00FFFFFF&} YOU CAN
+Dialogue: 2,0:00:18.53,0:00:18.71,Cap,,0,0,0,,{\pos(540,739)}HERE {\c&H0000E5FF&}YOU{\c&H00FFFFFF&} CAN
+Dialogue: 2,0:00:18.71,0:00:18.85,Cap,,0,0,0,,{\pos(540,739)}HERE YOU {\c&H0000E5FF&}CAN{\c&H00FFFFFF&}
+Dialogue: 2,0:00:18.85,0:00:19.07,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}SEE{\c&H00FFFFFF&} THE CROCODILE
+Dialogue: 2,0:00:19.07,0:00:19.25,Cap,,0,0,0,,{\pos(540,739)}SEE {\c&H0000E5FF&}THE{\c&H00FFFFFF&} CROCODILE
+Dialogue: 2,0:00:19.25,0:00:19.63,Cap,,0,0,0,,{\pos(540,739)}SEE THE {\c&H0000E5FF&}CROCODILE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:19.63,0:00:20.05,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}IN{\c&H00FFFFFF&} THEIR NATURAL
+Dialogue: 2,0:00:20.05,0:00:20.19,Cap,,0,0,0,,{\pos(540,739)}IN {\c&H0000E5FF&}THEIR{\c&H00FFFFFF&} NATURAL
+Dialogue: 2,0:00:20.19,0:00:20.51,Cap,,0,0,0,,{\pos(540,739)}IN THEIR {\c&H0000E5FF&}NATURAL{\c&H00FFFFFF&}
+Dialogue: 2,0:00:20.51,0:00:20.75,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}HABITAT{\c&H00FFFFFF&} AND THE
+Dialogue: 2,0:00:20.75,0:00:22.53,Cap,,0,0,0,,{\pos(540,739)}HABITAT {\c&H0000E5FF&}AND{\c&H00FFFFFF&} THE
+Dialogue: 2,0:00:22.53,0:00:22.69,Cap,,0,0,0,,{\pos(540,739)}HABITAT AND {\c&H0000E5FF&}THE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:22.69,0:00:22.97,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}MALES{\c&H00FFFFFF&} ARE FIGHTING
+Dialogue: 2,0:00:22.97,0:00:23.25,Cap,,0,0,0,,{\pos(540,739)}MALES {\c&H0000E5FF&}ARE{\c&H00FFFFFF&} FIGHTING
+Dialogue: 2,0:00:23.25,0:00:23.55,Cap,,0,0,0,,{\pos(540,739)}MALES ARE {\c&H0000E5FF&}FIGHTING{\c&H00FFFFFF&}
+Dialogue: 2,0:00:23.55,0:00:23.83,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}FOR{\c&H00FFFFFF&} THE RIGHT
+Dialogue: 2,0:00:23.83,0:00:23.95,Cap,,0,0,0,,{\pos(540,739)}FOR {\c&H0000E5FF&}THE{\c&H00FFFFFF&} RIGHT
+Dialogue: 2,0:00:23.95,0:00:24.17,Cap,,0,0,0,,{\pos(540,739)}FOR THE {\c&H0000E5FF&}RIGHT{\c&H00FFFFFF&}
+Dialogue: 2,0:00:24.17,0:00:24.37,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}TO{\c&H00FFFFFF&} MATE NOW
+Dialogue: 2,0:00:24.37,0:00:24.75,Cap,,0,0,0,,{\pos(540,739)}TO {\c&H0000E5FF&}MATE{\c&H00FFFFFF&} NOW
+Dialogue: 2,0:00:24.75,0:00:26.49,Cap,,0,0,0,,{\pos(540,739)}TO MATE {\c&H0000E5FF&}NOW{\c&H00FFFFFF&}
+Dialogue: 2,0:00:26.49,0:00:26.67,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}IT{\c&H00FFFFFF&} JUST SEEMED
+Dialogue: 2,0:00:26.67,0:00:26.77,Cap,,0,0,0,,{\pos(540,739)}IT {\c&H0000E5FF&}JUST{\c&H00FFFFFF&} SEEMED
+Dialogue: 2,0:00:26.77,0:00:27.03,Cap,,0,0,0,,{\pos(540,739)}IT JUST {\c&H0000E5FF&}SEEMED{\c&H00FFFFFF&}
+Dialogue: 2,0:00:27.03,0:00:27.23,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THAT{\c&H00FFFFFF&} THE
+Dialogue: 2,0:00:27.23,0:00:27.74,Cap,,0,0,0,,{\pos(540,739)}THAT {\c&H0000E5FF&}THE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:28.57,0:00:29.13,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}YOUNGER{\c&H00FFFFFF&} MORE
+Dialogue: 2,0:00:29.13,0:00:29.69,Cap,,0,0,0,,{\pos(540,739)}YOUNGER {\c&H0000E5FF&}MORE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:29.69,0:00:30.11,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}POWERFUL{\c&H00FFFFFF&} MALE HAS
+Dialogue: 2,0:00:30.11,0:00:30.45,Cap,,0,0,0,,{\pos(540,739)}POWERFUL {\c&H0000E5FF&}MALE{\c&H00FFFFFF&} HAS
+Dialogue: 2,0:00:30.45,0:00:32.05,Cap,,0,0,0,,{\pos(540,739)}POWERFUL MALE {\c&H0000E5FF&}HAS{\c&H00FFFFFF&}
+Dialogue: 2,0:00:32.05,0:00:32.23,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}BEEN{\c&H00FFFFFF&} VICTORIOUS IN
+Dialogue: 2,0:00:32.23,0:00:32.59,Cap,,0,0,0,,{\pos(540,739)}BEEN {\c&H0000E5FF&}VICTORIOUS{\c&H00FFFFFF&} IN
+Dialogue: 2,0:00:32.59,0:00:33.21,Cap,,0,0,0,,{\pos(540,739)}BEEN VICTORIOUS {\c&H0000E5FF&}IN{\c&H00FFFFFF&}
+Dialogue: 2,0:00:33.21,0:00:33.35,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THIS{\c&H00FFFFFF&} FIGHT IT'S
+Dialogue: 2,0:00:33.35,0:00:33.61,Cap,,0,0,0,,{\pos(540,739)}THIS {\c&H0000E5FF&}FIGHT{\c&H00FFFFFF&} IT'S
+Dialogue: 2,0:00:33.61,0:00:34.87,Cap,,0,0,0,,{\pos(540,739)}THIS FIGHT {\c&H0000E5FF&}IT'S{\c&H00FFFFFF&}
+Dialogue: 2,0:00:34.87,0:00:35.17,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ALLIGATOR{\c&H00FFFFFF&} SHUT UP
+Dialogue: 2,0:00:35.17,0:00:35.59,Cap,,0,0,0,,{\pos(540,739)}ALLIGATOR {\c&H0000E5FF&}SHUT{\c&H00FFFFFF&} UP
+Dialogue: 2,0:00:35.59,0:00:36.24,Cap,,0,0,0,,{\pos(540,739)}ALLIGATOR SHUT {\c&H0000E5FF&}UP{\c&H00FFFFFF&}
+Dialogue: 2,0:00:38.91,0:00:39.21,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}YOU'RE{\c&H00FFFFFF&} AN
+Dialogue: 2,0:00:39.21,0:00:39.31,Cap,,0,0,0,,{\pos(540,739)}YOU'RE {\c&H0000E5FF&}AN{\c&H00FFFFFF&}
+Dialogue: 2,0:00:39.31,0:00:39.69,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ALLIGATOR{\c&H00FFFFFF&} IGUANA
+Dialogue: 2,0:00:39.69,0:00:41.38,Cap,,0,0,0,,{\pos(540,739)}ALLIGATOR {\c&H0000E5FF&}IGUANA{\c&H00FFFFFF&}
+Dialogue: 2,0:00:41.52,0:00:42.24,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}JUST{\c&H00FFFFFF&} TURNED INTO
+Dialogue: 2,0:00:42.24,0:00:42.50,Cap,,0,0,0,,{\pos(540,739)}JUST {\c&H0000E5FF&}TURNED{\c&H00FFFFFF&} INTO
+Dialogue: 2,0:00:42.50,0:00:42.70,Cap,,0,0,0,,{\pos(540,739)}JUST TURNED {\c&H0000E5FF&}INTO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:42.70,0:00:43.32,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}DAVID{\c&H00FFFFFF&} ATTENBOROUGH
+Dialogue: 2,0:00:43.32,0:00:43.72,Cap,,0,0,0,,{\pos(540,739)}DAVID {\c&H0000E5FF&}ATTENBOROUGH{\c&H00FFFFFF&}
+Dialogue: 2,0:00:43.72,0:00:44.04,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}STREAM{\c&H00FFFFFF&} SORRY
+Dialogue: 2,0:00:44.04,0:00:45.65,Cap,,0,0,0,,{\pos(540,739)}STREAM {\c&H0000E5FF&}SORRY{\c&H00FFFFFF&}
+Dialogue: 2,0:00:47.32,0:00:47.46,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}I{\c&H00FFFFFF&} DON'T HAVE
+Dialogue: 2,0:00:47.46,0:00:47.52,Cap,,0,0,0,,{\pos(540,739)}I {\c&H0000E5FF&}DON'T{\c&H00FFFFFF&} HAVE
+Dialogue: 2,0:00:47.52,0:00:47.60,Cap,,0,0,0,,{\pos(540,739)}I DON'T {\c&H0000E5FF&}HAVE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:47.60,0:00:47.72,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THE{\c&H00FFFFFF&} VOICE
+Dialogue: 2,0:00:47.72,0:00:48.30,Cap,,0,0,0,,{\pos(540,739)}THE {\c&H0000E5FF&}VOICE{\c&H00FFFFFF&}
