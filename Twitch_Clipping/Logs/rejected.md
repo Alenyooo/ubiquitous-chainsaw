@@ -23,3 +23,4 @@
 - ohnepixel "ohne is a dick" / "LEEKED": full-frontal NPC nudity. "Lucia tripped", "negev incident 2.0": weak.
 - nickeh30 "Nick Eh 30 Classic", "was it worth it?", "nick is going insane bro": low reaction (7-9 dB), innuendo; Easter-egg segment is him watching another creator's YouTube video (not ours to repost).
 - missmikkaa "Lucia machona": scripted robbery cutscene, game dialogue only. Club Malibu Vice City reference: too dark / weak visually.
+- ohnepixel "13 years... they placed the motorcycle here": mostly murky underwater footage, weak. missmikkaa "drops his phone": tiny dark animation bug. ohnepixel "new fear unlocked", "Ass", "Double dih": sexual.

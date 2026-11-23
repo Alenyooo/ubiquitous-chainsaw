@@ -1,0 +1,41 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,7,3,5,60,60,0,1
+Style: Npc,Inter ExtraBold,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,3,4,0,5,90,90,0,1
+Style: Hook,Inter Black,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,8,4,5,50,50,0,1
+Style: Note,Inter ExtraBold,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,3,3,0,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:06.40,0:00:06.68,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}I{\c&H00FFFFFF&} LOVE
+Dialogue: 2,0:00:06.68,0:00:07.59,Cap,,0,0,0,,{\pos(540,739)}I {\c&H0000E5FF&}LOVE{\c&H00FFFFFF&}
+Dialogue: 2,0:00:12.23,0:00:12.67,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THE{\c&H00FFFFFF&} MUSIC IN
+Dialogue: 2,0:00:12.67,0:00:12.93,Cap,,0,0,0,,{\pos(540,739)}THE {\c&H0000E5FF&}MUSIC{\c&H00FFFFFF&} IN
+Dialogue: 2,0:00:12.93,0:00:13.05,Cap,,0,0,0,,{\pos(540,739)}THE MUSIC {\c&H0000E5FF&}IN{\c&H00FFFFFF&}
+Dialogue: 2,0:00:13.05,0:00:13.15,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}THIS{\c&H00FFFFFF&} QUEST I'M
+Dialogue: 2,0:00:13.15,0:00:13.71,Cap,,0,0,0,,{\pos(540,739)}THIS {\c&H0000E5FF&}QUEST{\c&H00FFFFFF&} I'M
+Dialogue: 2,0:00:13.71,0:00:14.62,Cap,,0,0,0,,{\pos(540,739)}THIS QUEST {\c&H0000E5FF&}I'M{\c&H00FFFFFF&}
+Dialogue: 2,0:00:19.52,0:00:19.66,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}TRYING{\c&H00FFFFFF&} TO GO
+Dialogue: 2,0:00:19.66,0:00:19.74,Cap,,0,0,0,,{\pos(540,739)}TRYING {\c&H0000E5FF&}TO{\c&H00FFFFFF&} GO
+Dialogue: 2,0:00:19.74,0:00:19.86,Cap,,0,0,0,,{\pos(540,739)}TRYING TO {\c&H0000E5FF&}GO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:19.86,0:00:19.96,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}ON{\c&H00FFFFFF&} THE WAVES
+Dialogue: 2,0:00:19.96,0:00:20.06,Cap,,0,0,0,,{\pos(540,739)}ON {\c&H0000E5FF&}THE{\c&H00FFFFFF&} WAVES
+Dialogue: 2,0:00:20.06,0:00:20.69,Cap,,0,0,0,,{\pos(540,739)}ON THE {\c&H0000E5FF&}WAVES{\c&H00FFFFFF&}
+Dialogue: 2,0:00:36.24,0:00:37.96,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO NO
+Dialogue: 2,0:00:37.96,0:00:38.16,Cap,,0,0,0,,{\pos(540,739)}NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO
+Dialogue: 2,0:00:38.16,0:00:38.90,Cap,,0,0,0,,{\pos(540,739)}NO NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:38.90,0:00:39.12,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO NO
+Dialogue: 2,0:00:39.12,0:00:39.20,Cap,,0,0,0,,{\pos(540,739)}NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&} NO
+Dialogue: 2,0:00:39.20,0:00:39.24,Cap,,0,0,0,,{\pos(540,739)}NO NO {\c&H0000E5FF&}NO{\c&H00FFFFFF&}
+Dialogue: 2,0:00:39.24,0:00:39.50,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}DON'T{\c&H00FFFFFF&} TURN
+Dialogue: 2,0:00:39.50,0:00:40.09,Cap,,0,0,0,,{\pos(540,739)}DON'T {\c&H0000E5FF&}TURN{\c&H00FFFFFF&}
+Dialogue: 2,0:00:40.58,0:00:40.98,Cap,,0,0,0,,{\pos(540,739)}{\fscx88\fscy88\t(0,90,\fscx100\fscy100)}{\c&H0000E5FF&}NO{\c&H00FFFFFF&} SUDDEN TURN
+Dialogue: 2,0:00:40.98,0:00:41.20,Cap,,0,0,0,,{\pos(540,739)}NO {\c&H0000E5FF&}SUDDEN{\c&H00FFFFFF&} TURN
+Dialogue: 2,0:00:41.20,0:00:41.87,Cap,,0,0,0,,{\pos(540,739)}NO SUDDEN {\c&H0000E5FF&}TURN{\c&H00FFFFFF&}
